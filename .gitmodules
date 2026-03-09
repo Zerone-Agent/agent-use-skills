@@ -1,0 +1,3 @@
+[submodule "awesome-skills/commons/superpowers"]
+	path = awesome-skills/commons/superpowers
+	url = https://github.com/obra/superpowers
