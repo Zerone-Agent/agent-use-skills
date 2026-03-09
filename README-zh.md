@@ -52,7 +52,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| (待补充) | - | 🏗️ 整理中 |
+| **[ui-ux-pro-max-skill](awesome-skills/skills/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
 
 ### 开发与测试
 
