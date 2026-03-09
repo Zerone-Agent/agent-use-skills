@@ -94,7 +94,21 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'anthropic-dark': '#141413',
+        'anthropic-light': '#faf9f5',
+        'anthropic-gray': '#b0aea5',
+        'anthropic-border': '#e8e6dc',
+        'anthropic-orange': '#d97757',
+        'anthropic-blue': '#6a9bcc',
+        'anthropic-green': '#788c5d',
+      },
+      fontFamily: {
+        heading: ['Poppins', 'Arial', 'sans-serif'],
+        body: ['Lora', 'Georgia', 'serif'],
+      },
+    },
   },
   plugins: [],
 }
@@ -385,17 +399,17 @@ export default function RootLayout({
 ```tsx
 export default function Header() {
   return (
-    <header className="border-b">
+    <header className="border-b border-anthropic-border bg-anthropic-light">
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
-          <a href="/" className="text-xl font-bold">
+          <a href="/" className="text-xl font-bold font-heading text-anthropic-dark hover:text-anthropic-orange transition">
             AgentUse Skills
           </a>
           <div className="space-x-6">
-            <a href="/" className="hover:text-blue-600">
+            <a href="/" className="font-body text-anthropic-dark hover:text-anthropic-orange transition">
               技能列表
             </a>
-            <a href="/about" className="hover:text-blue-600">
+            <a href="/about" className="font-body text-anthropic-dark hover:text-anthropic-orange transition">
               关于
             </a>
           </div>
@@ -431,20 +445,26 @@ export default function Home() {
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Poppins:wght@400;500;600;700&display=swap');
+
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --anthropic-dark: #141413;
+  --anthropic-light: #faf9f5;
+  --anthropic-gray: #b0aea5;
+  --anthropic-border: #e8e6dc;
+  --anthropic-orange: #d97757;
+  --anthropic-blue: #6a9bcc;
+  --anthropic-green: #788c5d;
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: var(--anthropic-light);
+  color: var(--anthropic-dark);
+  font-family: var(--font-lora), Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-poppins), Arial, sans-serif;
 }
 ```
 
@@ -728,15 +748,15 @@ interface SkillCardProps {
 
 export default function SkillCard({ name, description, category, status, frameworks, avg_rating, install_count }: SkillCardProps) {
   return (
-    <div className="border rounded-lg p-6 hover:shadow-lg transition">
+    <div className="border border-anthropic-border rounded-lg p-6 hover:shadow-lg transition bg-anthropic-light">
       <div className="flex justify-between items-start mb-2">
-        <h3 className="text-xl font-semibold">{name}</h3>
-        <span className={`px-2 py-1 text-sm rounded ${status === '已验证' ? 'bg-green-100 text-green-800' : 'bg-yellow-100 text-yellow-800'}`}>
+        <h3 className="text-xl font-semibold font-heading text-anthropic-dark">{name}</h3>
+        <span className={`px-2 py-1 text-sm rounded ${status === '已验证' ? 'bg-anthropic-green/20 text-anthropic-green' : 'bg-anthropic-orange/20 text-anthropic-orange'}`}>
           {status}
         </span>
       </div>
-      <p className="text-gray-600 mb-4">{description}</p>
-      <div className="flex items-center gap-2 text-sm text-gray-500">
+      <p className="font-body text-anthropic-gray mb-4">{description}</p>
+      <div className="flex items-center gap-2 text-sm font-body text-anthropic-gray">
         <span>{category}</span>
         {avg_rating && (
           <span>⭐ {avg_rating.toFixed(1)}</span>
@@ -747,7 +767,7 @@ export default function SkillCard({ name, description, category, status, framewo
       </div>
       <div className="mt-4 flex flex-wrap gap-2">
         {frameworks.map((fw) => (
-          <span key={fw} className="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded">
+          <span key={fw} className="px-2 py-1 bg-anthropic-border/30 text-anthropic-dark text-xs rounded font-body">
             {fw}
           </span>
         ))}

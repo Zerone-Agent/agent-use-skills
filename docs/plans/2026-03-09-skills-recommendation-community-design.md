@@ -221,8 +221,50 @@ Content-Type: text/markdown
 | `InstallGuide` | 安装指南 Markdown 渲染 (react-markdown + remark-gfm) |
 
 ### 5.3 UI 框架
-- **推荐**: shadcn/ui + Tailwind CSS
-- **理由**: 现代化设计、组件丰富、易定制
+- **推荐**: Tailwind CSS + Claude 风格
+- **理由**: 符合 Anthropic 品牌视觉规范
+
+### 5.4 Claude 风格设计
+
+**颜色规范：**
+
+| 用途 | 颜色值 | 说明 |
+|------|--------|------|
+| 主背景 | `#faf9f5` | 浅色背景 |
+| 主文字 | `#141413` | 深色文字 |
+| 次要元素 | `#b0aea5` | 中灰色 |
+| 边框/分割线 | `#e8e6dc` | 浅灰边框 |
+| 主强调色 | `#d97757` | 橙色 (按钮、链接) |
+| 次强调色 | `#6a9bcc` | 蓝色 |
+| 第三强调色 | `#788c5d` | 绿色 |
+
+**字体规范：**
+
+| 元素 | 字体 | Fallback |
+|------|------|----------|
+| 标题 | Poppins | Arial |
+| 正文 | Lora | Georgia |
+
+**CSS 配置示例：**
+```css
+:root {
+  --anthropic-dark: #141413;
+  --anthropic-light: #faf9f5;
+  --anthropic-gray: #b0aea5;
+  --anthropic-border: #e8e6dc;
+  --anthropic-orange: #d97757;
+  --anthropic-blue: #6a9bcc;
+  --anthropic-green: #788c5d;
+}
+
+.font-heading {
+  font-family: 'Poppins', Arial, sans-serif;
+}
+
+.font-body {
+  font-family: 'Lora', Georgia, serif;
+}
+```
 
 ---
 
