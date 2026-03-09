@@ -1,5 +1,7 @@
 # Agent-Ready Certification
 
+English | [中文](README-zh.md)
+
 > Coming Soon
 
 ---
@@ -41,7 +43,7 @@ If you represent a traditional software company and want to make your product ac
 We are currently in private beta with select partners. If you're interested in becoming an early adopter, please reach out:
 
 - **Email:** tohhyin@gmail.com
-- **GitHub:** https://github.com/zhiheng-yu
+- **GitHub:** https://github.com/zerone-agent
 
 ---
 
