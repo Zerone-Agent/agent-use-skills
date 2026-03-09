@@ -4,15 +4,11 @@ English | [中文](README-zh.md)
 
 > Coming Soon
 
----
-
 ## What is Agent-Use?
 
 **Agent-Use** is the bridge between AI Agents and the software ecosystem. We are building the foundational infrastructure that enables traditional software to become "Agent-First" — designed from the ground up to be operated autonomously by AI.
 
 Our vision: In the near future, software will no longer be designed primarily for human interaction. The primary interface will be semantic, structural, and programmable. Agent-Use is making this transition possible.
-
----
 
 ## What is Agent-Ready?
 
@@ -24,8 +20,6 @@ An Agent-Ready certified software product has:
 - **Security Guardrails:** Permission boundaries and human-in-the-loop approval mechanisms are in place.
 - **Verified Integration:** The software has been tested and certified by AgentUse to work seamlessly with major AI Agent platforms.
 
----
-
 ## For Software Vendors
 
 If you represent a traditional software company and want to make your product accessible to the growing ecosystem of AI Agents, AgentUse provides:
@@ -33,8 +27,6 @@ If you represent a traditional software company and want to make your product ac
 1. **Consultation:** Expert guidance on how to restructure your software's interfaces for Agent consumption.
 2. **Certification:** Official "Agent-Ready" badge that signals to developers and Agents that your software is trustworthy and easy to integrate.
 3. **Distribution:** Featured placement on the AgentUse Marketplace, where developers actively search for capable tools.
-
----
 
 ## Status
 

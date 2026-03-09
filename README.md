@@ -22,44 +22,49 @@ We have deeply organized existing AI Skills, provided the most convenient instal
 - **Framework Optimization**: Specialized tuning for different Agent frameworks, verified by rigorous automated testing.
 - **Progressive Loading**: Efficient metadata discovery ensures support for massive skill libraries without overwhelming the context window.
 
----
-
 ## 🚀 Getting Started
 
-### 1. Preparation
-Ensure you have `uv` installed (recommended):
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+### Supported Frameworks
 
-### 2. Integration with Frameworks
-We currently provide deep support for the following frameworks:
+AgentUse Skills supports the following AI Agent frameworks:
 
-- **Claude Code**:
-  ```bash
-  /plugin add /path/to/agent-use-skills/skills/your-skill
-  ```
-- **Open Hands / Other Frameworks**:
-  Please refer to the `README.md` within each skill directory for specific integration advice.
+- **Claude Code**
+- **Codex**
+- **Cursor**
+- **OpenCode**
+- **OpenClaw**
+- **Qoder**
 
-### 3. Usage
-Directly describe your task in conversation, and the Agent will automatically discover and load relevant instructions based on the skill metadata.
-
----
+Each framework provides its own skill loading mechanism. Please refer to the installation guides in each skill directory for framework-specific instructions.
 
 ## 🎯 Skill List
 
 > [!NOTE]
 > The skill library is being rapidly organized, and more high-quality skills will be available soon!
 
-| Category | Skill Name | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **Document & Office** | (TBD) | - | 🏗️ Organizing |
-| **Design & Creative** | (TBD) | - | 🏗️ Organizing |
-| **Dev & Testing** | (TBD) | - | 🏗️ Organizing |
-| **System Automation** | (TBD) | - | 🏗️ Organizing |
+### Document & Office
 
----
+| Skill Name | Description | Status |
+| :--- | :--- | :--- |
+| (TBD) | - | 🏗️ Organizing |
+
+### Design & Creative
+
+| Skill Name | Description | Status |
+| :--- | :--- | :--- |
+| (TBD) | - | 🏗️ Organizing |
+
+### Dev & Testing
+
+| Skill Name | Description | Status |
+| :--- | :--- | :--- |
+| **[superpowers](awesome-skills/skills/en/superpowers.md)** | Battle-tested 20+ core skills including TDD, debugging, and collaboration patterns. | ✅ Verified |
+
+### System Automation
+
+| Skill Name | Description | Status |
+| :--- | :--- | :--- |
+| (TBD) | - | 🏗️ Organizing |
 
 ## 🛠️ Skill Development & Contribution
 
@@ -68,8 +73,6 @@ If you'd like to contribute new skills or improve existing ones:
 1. **Structural Specification**: Each skill must follow the `SKILL.md` standard and include necessary `scripts/` and `resources/`.
 2. **Verification Flow**: Ensure the skill passed verification in at least one mainstream framework.
 3. **Submit PR**: We welcome your contributions via Pull Requests!
-
----
 
 ## 📖 Core Concept: Why Skills?
 
@@ -80,16 +83,12 @@ If you'd like to contribute new skills or improve existing ones:
 | **Extensibility** | Supports complex scripts/resources | Pure text instructions only | Depends on file mounts |
 | **Maintainability** | Centralized version management | Scattered distribution | Fragmented |
 
----
-
 ## 🔒 Security & Best Practices
 
 ⚠️ **Important Notice**: Skills may execute code in your environment. Please ensure you:
 - Only install skills from trusted sources (like this repo).
 - Read the instructions in `SKILL.md` carefully before production deployment.
 - Follow the principle of least privilege, granting only necessary permissions to the Agent.
-
----
 
 ## 🤝 Acknowledgments & Contributors
 
