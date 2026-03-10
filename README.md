@@ -53,6 +53,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/skills/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
+| **[frontend-slides](awesome-skills/introductions/en/frontend-slides.md)** | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files, with 12 curated visual styles. | 🔍 Pending Verification |
 
 ### Dev & Testing
 
