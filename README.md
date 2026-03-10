@@ -21,6 +21,7 @@ We have deeply organized existing AI Skills, provided the most convenient instal
 - **Convenient Installation**: One-click scripts and detailed docs to significantly lower the barrier to entry.
 - **Framework Optimization**: Specialized tuning for different Agent frameworks, verified by rigorous automated testing.
 - **Progressive Loading**: Efficient metadata discovery ensures support for massive skill libraries without overwhelming the context window.
+- **[Agent-Ready Certification](agent-ready/README.md)**: A specialized program for software vendors to bridge traditional applications with the AI Agent ecosystem through standardized APIs and verified integrations.
 
 ## 🚀 Getting Started
 
