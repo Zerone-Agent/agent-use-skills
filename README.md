@@ -53,14 +53,15 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| **[ui-ux-pro-max-skill](awesome-skills/skills/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
+| **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
 | **[frontend-slides](awesome-skills/introductions/en/frontend-slides.md)** | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files, with 12 curated visual styles. | 🔍 Pending Verification |
 
 ### Dev & Testing
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| **[superpowers](awesome-skills/skills/en/superpowers.md)** | Battle-tested 20+ core skills including TDD, debugging, and collaboration patterns. | ✅ Verified |
+| **[agentuse-share](awesome-skills/introductions/en/agentuse-share.md)** | A standardized workflow for contributing new skills to this repository, including research, documentation, and installation guide generation. | ✅ Verified |
+| **[superpowers](awesome-skills/introductions/en/superpowers.md)** | Battle-tested 20+ core skills including TDD, debugging, and collaboration patterns. | ✅ Verified |
 
 ### System Automation
 

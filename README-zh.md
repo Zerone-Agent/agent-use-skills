@@ -53,14 +53,15 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| **[ui-ux-pro-max-skill](awesome-skills/skills/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
+| **[ui-ux-pro-max-skill](awesome-skills/introductions/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
 | **[frontend-slides](awesome-skills/introductions/zh/frontend-slides.md)** | 创建精美、动画丰富的 HTML 演示文稿，支持从零创建或从 PowerPoint 转换，内置 12 种精选视觉风格。 | 🔍 待验证 |
 
 ### 开发与测试
 
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| **[superpowers](awesome-skills/skills/zh/superpowers.md)** | 20+ 核心技能，涵盖 TDD、调试和协作模式。 | ✅ 已验证 |
+| **[agentuse-share](awesome-skills/introductions/zh/agentuse-share.md)** | 标准化 Skill 贡献工作流，涵盖调研、文档撰写及多平台安装指南生成。 | ✅ 已验证 |
+| **[superpowers](awesome-skills/introductions/zh/superpowers.md)** | 20+ 核心技能，涵盖 TDD、调试和协作模式。 | ✅ 已验证 |
 
 ### 系统自动化
 
