@@ -46,7 +46,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| (TBD) | - | 🏗️ Organizing |
+| **[content-research-writer](awesome-skills/introductions/en/content-research-writer.md)** | A collaborative writing partner that helps research, outline, draft, and refine content with proper citations while preserving your voice. | 🔍 Pending Verification |
 
 ### Design & Creative
 
