@@ -9,7 +9,7 @@
 [English](README.md) | 中文
 
 [![Last Updated](https://img.shields.io/badge/updated-Mar%202026-blue.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING-zh.md)
 
 > **AgentUse Skills** 为 AI Agent 提供了一套**可复用、可标准化的程序化知识**。
 
