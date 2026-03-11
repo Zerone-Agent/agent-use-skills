@@ -55,6 +55,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
+| **[imagen](awesome-skills/introductions/en/imagen.md)** | Generate images using Google Gemini's image generation capabilities. Pure Python implementation with zero dependencies. | 🔍 Pending Verification |
 | **[canvas-design](awesome-skills/introductions/en/canvas-design.md)** | Create museum-quality visual art through deep design philosophies, emphasizing master-level craftsmanship and minimal text. | 🔍 Pending Verification |
 | **[frontend-slides](awesome-skills/introductions/en/frontend-slides.md)** | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files, with 12 curated visual styles. | 🔍 Pending Verification |
 

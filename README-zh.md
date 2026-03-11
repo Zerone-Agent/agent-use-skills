@@ -55,6 +55,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
+| **[imagen](awesome-skills/introductions/zh/imagen.md)** | 利用 Google Gemini 的图像生成能力，在 AI 编码会话期间直接生成图像。纯 Python 实现，零依赖。 | 🔍 待验证 |
 | **[canvas-design](awesome-skills/introductions/zh/canvas-design.md)** | 通过深度的设计哲学创作博物馆品质的视觉艺术作品，强调大师级工艺与极简文本。 | 🔍 待验证 |
 | **[frontend-slides](awesome-skills/introductions/zh/frontend-slides.md)** | 创建精美、动画丰富的 HTML 演示文稿，支持从零创建或从 PowerPoint 转换，内置 12 种精选视觉风格。 | 🔍 待验证 |
 
