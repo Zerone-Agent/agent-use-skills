@@ -55,6 +55,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[tavily-search](awesome-skills/introductions/en/tavily-search.md)** | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. | 🔍 Pending Verification |
 | **[summarize](awesome-skills/introductions/en/summarize.md)** | Fast CLI to summarize URLs, local files (PDFs, images, audio), and YouTube links using multiple LLM providers. | 🔍 Pending Verification |
 | **[gog](awesome-skills/introductions/en/gog.md)** | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. | 🔍 Pending Verification |
+| **[obsidian](awesome-skills/introductions/en/obsidian.md)** | Work with Obsidian vaults (Markdown notes) and automate via obsidian-cli. Supports smart search and safe refactoring. | 🔍 Pending Verification |
 
 ### Design & Creative
 

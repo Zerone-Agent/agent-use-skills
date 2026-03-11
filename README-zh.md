@@ -55,6 +55,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | 🔍 待验证 |
 | **[summarize](awesome-skills/introductions/zh/summarize.md)** | 全能摘要生成技能，支持 URL、本地文件（PDF、图像、音频）和 YouTube 链接的快速提炼。 | 🔍 待验证 |
 | **[gog](awesome-skills/introductions/zh/gog.md)** | Google Workspace CLI 技能，支持 Gmail、日历、云端硬盘、联系人、表格和文档的操作。 | 🔍 待验证 |
+| **[obsidian](awesome-skills/introductions/zh/obsidian.md)** | Obsidian 笔记管理技能，支持本地 Markdown 仓库的搜索、创建及链接同步重构。 | 🔍 待验证 |
 
 ### 设计与创意
 
