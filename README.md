@@ -76,6 +76,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[playwright-skill](awesome-skills/introductions/en/playwright-skill.md)** | Complete browser automation with Playwright. Auto-detects dev servers, performs testing, screenshots, and UX validation. | 🔍 Pending Verification |
 | **[prompt-engineering](awesome-skills/introductions/en/prompt-engineering.md)** | Advanced prompt engineering techniques including Few-Shot, CoT, and persuasion principles to maximize Agent performance. | 🔍 Pending Verification |
 | **[self-improving-agent](awesome-skills/introductions/en/self-improving-agent.md)** | Captures learnings, errors, and corrections to enable continuous improvement. Promotes learnings to project memory. | 🔍 Pending Verification |
+| **[proactive-agent](awesome-skills/introductions/en/proactive-agent.md)** | Transform AI agents into proactive partners that anticipate needs and survive context loss using WAL and Working Buffer protocols. | 🔍 Pending Verification |
 
 ### System Automation
 
