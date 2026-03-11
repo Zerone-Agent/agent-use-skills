@@ -69,6 +69,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[superpowers](awesome-skills/introductions/en/superpowers.md)** | Battle-tested 20+ core skills including TDD, debugging, and collaboration patterns. | ✅ Verified |
 | **[playwright-skill](awesome-skills/introductions/en/playwright-skill.md)** | Complete browser automation with Playwright. Auto-detects dev servers, performs testing, screenshots, and UX validation. | 🔍 Pending Verification |
 | **[prompt-engineering](awesome-skills/introductions/en/prompt-engineering.md)** | Advanced prompt engineering techniques including Few-Shot, CoT, and persuasion principles to maximize Agent performance. | 🔍 Pending Verification |
+| **[self-improving-agent](awesome-skills/introductions/en/self-improving-agent.md)** | Captures learnings, errors, and corrections to enable continuous improvement. Promotes learnings to project memory. | 🔍 Pending Verification |
 
 ### System Automation
 

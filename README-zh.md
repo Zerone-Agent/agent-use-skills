@@ -69,6 +69,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[superpowers](awesome-skills/introductions/zh/superpowers.md)** | 20+ 核心技能，涵盖 TDD、调试和协作模式。 | ✅ 已验证 |
 | **[playwright-skill](awesome-skills/introductions/zh/playwright-skill.md)** | 基于 Playwright 的全功能浏览器自动化技能，支持自动探测服务器、网页测试、截图及 UX 验证。 | 🔍 待验证 |
 | **[prompt-engineering](awesome-skills/introductions/zh/prompt-engineering.md)** | 高级提示词工程模式，涵盖少样本学习、思维链及说服原则，旨在最大化 Agent 执行效率。 | 🔍 待验证 |
+| **[self-improving-agent](awesome-skills/introductions/zh/self-improving-agent.md)** | 捕获学习经验、错误和修正建议，实现持续改进。支持将学习成果晋升为项目内存。 | 🔍 待验证 |
 
 ### 系统自动化
 
