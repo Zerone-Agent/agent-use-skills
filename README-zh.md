@@ -51,6 +51,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[content-research-writer](awesome-skills/introductions/zh/content-research-writer.md)** | 内容写作协作技能，帮助调研、构建大纲、撰写草稿并优化内容，支持引用管理，同时保持你独特的写作风格。 | 🔍 待验证 |
 | **[deep-research](awesome-skills/introductions/zh/deep-research.md)** | 自主多步骤深度研究技能，利用 Gemini Deep Research Agent 进行市场分析、文献综述、尽职调查等，生成带引用的详细报告。 | 🔍 待验证 |
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/zh/twitter-algorithm-optimizer.md)** | 基于 Twitter 开源算法洞察分析并优化推文，以获得最大的传播范围。 | 🔍 待验证 |
+| **[humanizer](awesome-skills/introductions/zh/humanizer.md)** | 识别并消除文本中的 AI 写作痕迹，使文字听起来更自然、更具人情味。 | 🔍 待验证 |
 | **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | 🔍 待验证 |
 | **[summarize](awesome-skills/introductions/zh/summarize.md)** | 全能摘要生成技能，支持 URL、本地文件（PDF、图像、音频）和 YouTube 链接的快速提炼。 | 🔍 待验证 |
 | **[gog](awesome-skills/introductions/zh/gog.md)** | Google Workspace CLI 技能，支持 Gmail、日历、云端硬盘、联系人、表格和文档的操作。 | 🔍 待验证 |
