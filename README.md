@@ -49,10 +49,10 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | :--- | :--- | :--- |
 | **[agent-browser](awesome-skills/introductions/en/agent-browser.md)** | A fast Rust-based headless browser automation CLI with Node.js fallback. Enables Agent navigation, interaction, and snapshots. | 🔍 Pending Verification |
 | **[github](awesome-skills/introductions/en/github.md)** | Official GitHub CLI integration for managing Issues, PRs, and monitoring CI/CD Action runs. | 🔍 Pending Verification |
-| **[content-research-writer](awesome-skills/introductions/en/content-research-writer.md)** | A collaborative writing partner that helps research, outline, draft, and refine content with proper citations while preserving your voice. | 🔍 Pending Verification |
-| **[deep-research](awesome-skills/introductions/en/deep-research.md)** | Autonomous multi-step deep research skill powered by Gemini Deep Research Agent for market analysis, literature reviews, due diligence, and more — producing detailed, cited reports. | 🔍 Pending Verification |
+| **[content-research-writer](awesome-skills/introductions/en/content-research-writer.md)** | A collaborative writing partner that helps research, outline, draft, and refine content with proper citations while preserving your voice. | ✅ Verified |
+| **[deep-research](awesome-skills/introductions/en/deep-research.md)** | Autonomous multi-step deep research skill powered by Gemini Deep Research Agent for market analysis, literature reviews, due diligence, and more — producing detailed, cited reports. | ✅ Verified |
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/en/twitter-algorithm-optimizer.md)** | Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. | 🔍 Pending Verification |
-| **[humanizer](awesome-skills/introductions/en/humanizer.md)** | Remove signs of AI-generated writing from text to make it sound more natural and human-written. | 🔍 Pending Verification |
+| **[humanizer](awesome-skills/introductions/en/humanizer.md)** | Remove signs of AI-generated writing from text to make it sound more natural and human-written. | ✅ Verified |
 | **[tavily-search](awesome-skills/introductions/en/tavily-search.md)** | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. | 🔍 Pending Verification |
 | **[summarize](awesome-skills/introductions/en/summarize.md)** | Fast CLI to summarize URLs, local files (PDFs, images, audio), and YouTube links using multiple LLM providers. | 🔍 Pending Verification |
 | **[gog](awesome-skills/introductions/en/gog.md)** | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. | 🔍 Pending Verification |
