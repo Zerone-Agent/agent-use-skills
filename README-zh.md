@@ -48,6 +48,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[agent-browser](awesome-skills/introductions/zh/agent-browser.md)** | 基于 Rust 的高性能无头浏览器自动化 CLI。支持 Agent 导航、交互及快照获取。 | 🔍 待验证 |
+| **[github](awesome-skills/introductions/zh/github.md)** | GitHub 官方 CLI 集成，支持管理 Issue、PR 及监控 CI/CD 流水线运行详情。 | 🔍 待验证 |
 | **[content-research-writer](awesome-skills/introductions/zh/content-research-writer.md)** | 内容写作协作技能，帮助调研、构建大纲、撰写草稿并优化内容，支持引用管理，同时保持你独特的写作风格。 | 🔍 待验证 |
 | **[deep-research](awesome-skills/introductions/zh/deep-research.md)** | 自主多步骤深度研究技能，利用 Gemini Deep Research Agent 进行市场分析、文献综述、尽职调查等，生成带引用的详细报告。 | 🔍 待验证 |
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/zh/twitter-algorithm-optimizer.md)** | 基于 Twitter 开源算法洞察分析并优化推文，以获得最大的传播范围。 | 🔍 待验证 |
