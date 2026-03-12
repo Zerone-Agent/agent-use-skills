@@ -72,6 +72,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[agentuse-share](awesome-skills/introductions/zh/agentuse-share.md)** | 标准化 Skill 贡献工作流，涵盖调研、文档撰写及多平台安装指南生成。 | ✅ 已验证 |
+| **[skill-market](awesome-skills/introductions/zh/skill-market.md)** | 从 Zerone Skill Market 自动发现并安装专业 Agent 技能。 | ✅ 已验证 |
 | **[superpowers](awesome-skills/introductions/zh/superpowers.md)** | 20+ 核心技能，涵盖 TDD、调试和协作模式。 | ✅ 已验证 |
 | **[playwright-skill](awesome-skills/introductions/zh/playwright-skill.md)** | 基于 Playwright 的全功能浏览器自动化技能，支持自动探测服务器、网页测试、截图及 UX 验证。 | 🔍 待验证 |
 | **[prompt-engineering](awesome-skills/introductions/zh/prompt-engineering.md)** | 高级提示词工程模式，涵盖少样本学习、思维链及说服原则，旨在最大化 Agent 执行效率。 | 🔍 待验证 |
