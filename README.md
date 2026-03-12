@@ -101,6 +101,15 @@ If you'd like to contribute new skills or improve existing ones:
 | **Extensibility** | Supports complex scripts/resources | Pure text instructions only | Depends on file mounts |
 | **Maintainability** | Centralized version management | Scattered distribution | Fragmented |
 
+## 💡 How to Contribute
+
+We advocate for an **AI-native contribution workflow**. You can use AI Agents along with our `agentuse-share` skill to automate the process of adding new skills.
+
+- **Fast-Track**: Simply provide a GitHub URL to your AI Agent and ask it to use the `agentuse-share` skill.
+- **Manual**: Follow our contribution guidelines for structure and bilingual requirements.
+
+For detailed instructions, please see our **[Contributing Guide](CONTRIBUTING.md)**.
+
 ## 🔒 Security & Best Practices
 
 ⚠️ **Important Notice**: Skills may execute code in your environment. Please ensure you:
