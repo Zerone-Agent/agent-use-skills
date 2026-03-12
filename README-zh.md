@@ -110,7 +110,10 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 ## 🤝 鸣谢与贡献者
 
-非常感谢所有为 AI 生态做出贡献的开发者！
+非常感谢所有为 AI 生态做出贡献的开发者！特别感谢以下开源社区为 AI 技能领域提供的灵感与贡献：
+
+- [ai-skills](https://github.com/sanjay3290/ai-skills)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 ---
 © 2026 AgentUse Team. Released under the GPL-3.0 License.

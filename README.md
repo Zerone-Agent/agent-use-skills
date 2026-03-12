@@ -110,7 +110,10 @@ If you'd like to contribute new skills or improve existing ones:
 
 ## 🤝 Acknowledgments & Contributors
 
-A huge thanks to all developers contributing to the AI ecosystem!
+A huge thanks to all developers contributing to the AI ecosystem! Special thanks to the following open-source communities for their inspiration and contributions to the field of AI skills:
+
+- [ai-skills](https://github.com/sanjay3290/ai-skills)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 ---
 © 2026 AgentUse Team. Released under the GPL-3.0 License.
