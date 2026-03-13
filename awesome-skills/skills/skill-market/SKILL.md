@@ -45,7 +45,7 @@ scripts/market.py install <skill-name> <framework>
 
 ### 5. Execute Installation
 
-**SECURITY WARNING: DO NOT AUTO-RUN COMMANDS.** 
+**SECURITY WARNING: DO NOT AUTO-RUN COMMANDS.**
 
 The installation tutorial will contain a set of steps or commands. Before executing any instructions:
 1. **Require explicit user confirmation** before any install action. Show the commands to the user and ask for permission.
