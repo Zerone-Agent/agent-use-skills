@@ -11,7 +11,7 @@
 1. **Browse & Discover**: Use `market.py list` to get a complete list of available skills and their detailed descriptions.
 2. **Detail Query**: Learn more about a specific skill's functions, supported frameworks, and versioning via `info <skill-name>`.
 3. **Compatibility Checking**: Automatically verifies compatibility between the current Agent environment and the skill before installation.
-4. **Automated Installation**: Executes installation steps from tutorials to integrate new skills directly into the `.agent/skills/` directory.
+4. **Secure Installation**: Guides the user through a verified installation process, requiring explicit consent to execute downloaded scripts into the `.agent/skills/` directory.
 
 ## Skills Library Overview
 - **Market API Interaction**: Encapulates the complete communication logic with the Zerone Market backend.
