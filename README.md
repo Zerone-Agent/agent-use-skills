@@ -72,6 +72,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[agentuse-share](awesome-skills/introductions/en/agentuse-share.md)** | A standardized workflow for contributing new skills to this repository, including research, documentation, and installation guide generation. | ✅ Verified |
+| **[skill-market](awesome-skills/introductions/en/skill-market.md)** | Automated discovery and installation of specialized agent skills from the Zerone Skill Market. | ✅ Verified |
 | **[superpowers](awesome-skills/introductions/en/superpowers.md)** | Battle-tested 20+ core skills including TDD, debugging, and collaboration patterns. | ✅ Verified |
 | **[playwright-skill](awesome-skills/introductions/en/playwright-skill.md)** | Complete browser automation with Playwright. Auto-detects dev servers, performs testing, screenshots, and UX validation. | 🔍 Pending Verification |
 | **[prompt-engineering](awesome-skills/introductions/en/prompt-engineering.md)** | Advanced prompt engineering techniques including Few-Shot, CoT, and persuasion principles to maximize Agent performance. | 🔍 Pending Verification |
@@ -101,6 +102,15 @@ If you'd like to contribute new skills or improve existing ones:
 | **Extensibility** | Supports complex scripts/resources | Pure text instructions only | Depends on file mounts |
 | **Maintainability** | Centralized version management | Scattered distribution | Fragmented |
 
+## 💡 How to Contribute
+
+We advocate for an **AI-native contribution workflow**. You can use AI Agents along with our `agentuse-share` skill to automate the process of adding new skills.
+
+- **Fast-Track**: Simply provide a GitHub URL to your AI Agent and ask it to use the `agentuse-share` skill.
+- **Manual**: Follow our contribution guidelines for structure and bilingual requirements.
+
+For detailed instructions, please see our **[Contributing Guide](CONTRIBUTING.md)**.
+
 ## 🔒 Security & Best Practices
 
 ⚠️ **Important Notice**: Skills may execute code in your environment. Please ensure you:
@@ -110,7 +120,10 @@ If you'd like to contribute new skills or improve existing ones:
 
 ## 🤝 Acknowledgments & Contributors
 
-A huge thanks to all developers contributing to the AI ecosystem!
+A huge thanks to all developers contributing to the AI ecosystem! Special thanks to the following open-source communities for their inspiration and contributions to the field of AI skills:
+
+- [ai-skills](https://github.com/sanjay3290/ai-skills)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 ---
 © 2026 AgentUse Team. Released under the GPL-3.0 License.

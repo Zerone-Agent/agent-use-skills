@@ -72,6 +72,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[agentuse-share](awesome-skills/introductions/zh/agentuse-share.md)** | 标准化 Skill 贡献工作流，涵盖调研、文档撰写及多平台安装指南生成。 | ✅ 已验证 |
+| **[skill-market](awesome-skills/introductions/zh/skill-market.md)** | 从 Zerone Skill Market 自动发现并安装专业 Agent 技能。 | ✅ 已验证 |
 | **[superpowers](awesome-skills/introductions/zh/superpowers.md)** | 20+ 核心技能，涵盖 TDD、调试和协作模式。 | ✅ 已验证 |
 | **[playwright-skill](awesome-skills/introductions/zh/playwright-skill.md)** | 基于 Playwright 的全功能浏览器自动化技能，支持自动探测服务器、网页测试、截图及 UX 验证。 | 🔍 待验证 |
 | **[prompt-engineering](awesome-skills/introductions/zh/prompt-engineering.md)** | 高级提示词工程模式，涵盖少样本学习、思维链及说服原则，旨在最大化 Agent 执行效率。 | 🔍 待验证 |
@@ -101,6 +102,15 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **扩展性** | 支持携带复杂脚本与资源 | 仅限文本指令 | 依赖文件挂载 |
 | **维护性** | 集中版本化管理 | 零散分布 | 碎片化 |
 
+## 💡 如何贡献
+
+我们倡导 **AI 原生（AI-native）的贡献流程**。你可以配合 AI Agent 使用我们内置的 `agentuse-share` 技能来自动化新增技能的过程。
+
+- **快速通道**：只需向你的 AI Agent 提供一个 GitHub 链接，并让它调用 `agentuse-share` 技能。
+- **手动贡献**：遵循我们的目录结构规范与双语要求进行提交。
+
+详细指南请阅读我们的 **[贡献指南](CONTRIBUTING-zh.md)**。
+
 ## 🔒 安全与最佳实践
 
 ⚠️ **重要提示**：技能可能会在您的环境中执行代码。请务必：
@@ -110,7 +120,10 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 ## 🤝 鸣谢与贡献者
 
-非常感谢所有为 AI 生态做出贡献的开发者！
+非常感谢所有为 AI 生态做出贡献的开发者！特别感谢以下开源社区为 AI 技能领域提供的灵感与贡献：
+
+- [ai-skills](https://github.com/sanjay3290/ai-skills)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 ---
 © 2026 AgentUse Team. Released under the GPL-3.0 License.
