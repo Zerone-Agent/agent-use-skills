@@ -54,6 +54,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/en/twitter-algorithm-optimizer.md)** | Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. | 🔍 Pending Verification |
 | **[humanizer](awesome-skills/introductions/en/humanizer.md)** | Remove signs of AI-generated writing from text to make it sound more natural and human-written. | ✅ Verified |
 | **[tavily-search](awesome-skills/introductions/en/tavily-search.md)** | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. | 🔍 Pending Verification |
+| **[multi-search-engine](awesome-skills/introductions/en/multi-search-engine.md)** | Multi search engine integration with 17 engines (8 CN + 9 Global). Supports advanced search operators, time filters, and WolframAlpha knowledge queries. | 🔍 Pending Verification |
 | **[summarize](awesome-skills/introductions/en/summarize.md)** | Fast CLI to summarize URLs, local files (PDFs, images, audio), and YouTube links using multiple LLM providers. | 🔍 Pending Verification |
 | **[gog](awesome-skills/introductions/en/gog.md)** | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. | 🔍 Pending Verification |
 | **[obsidian](awesome-skills/introductions/en/obsidian.md)** | Work with Obsidian vaults (Markdown notes) and automate via obsidian-cli. Supports smart search and safe refactoring. | 🔍 Pending Verification |

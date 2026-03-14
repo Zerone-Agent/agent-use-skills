@@ -54,6 +54,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/zh/twitter-algorithm-optimizer.md)** | 基于 Twitter 开源算法洞察分析并优化推文，以获得最大的传播范围。 | 🔍 待验证 |
 | **[humanizer](awesome-skills/introductions/zh/humanizer.md)** | 识别并消除文本中的 AI 写作痕迹，使文字听起来更自然、更具人情味。 | ✅ 已验证 |
 | **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | 🔍 待验证 |
+| **[multi-search-engine](awesome-skills/introductions/zh/multi-search-engine.md)** | 集成 17 个搜索引擎（8 个国内 + 9 个国际），支持高级搜索语法与 WolframAlpha 知识计算。 | 🔍 待验证 |
 | **[summarize](awesome-skills/introductions/zh/summarize.md)** | 全能摘要生成技能，支持 URL、本地文件（PDF、图像、音频）和 YouTube 链接的快速提炼。 | 🔍 待验证 |
 | **[gog](awesome-skills/introductions/zh/gog.md)** | Google Workspace CLI 技能，支持 Gmail、日历、云端硬盘、联系人、表格和文档的操作。 | 🔍 待验证 |
 | **[obsidian](awesome-skills/introductions/zh/obsidian.md)** | Obsidian 笔记管理技能，支持本地 Markdown 仓库的搜索、创建及链接同步重构。 | 🔍 待验证 |
