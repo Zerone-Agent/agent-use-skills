@@ -90,7 +90,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| (待补充) | - | 🏗️ 整理中 |
+| **[openclaw-config-guard](awesome-skills/introductions/zh/openclaw-config-guard.md)** | 一个以安全为优先的配置维护技能，用于对 OpenClaw 配置进行审计与修复，并提供确定性校验、备份、回滚和变更报告能力。 | ✅ 已验证 |
 
 ## 🛠️ 技能开发与贡献
 

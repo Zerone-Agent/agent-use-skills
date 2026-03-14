@@ -90,7 +90,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| (TBD) | - | 🏗️ Organizing |
+| **[openclaw-config-guard](awesome-skills/introductions/en/openclaw-config-guard.md)** | A safety-first maintenance skill for auditing and repairing OpenClaw configuration with deterministic validation, backups, rollback, and change reporting. | ✅ Verified |
 
 ## 🛠️ Skill Development & Contribution
 
