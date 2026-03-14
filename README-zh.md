@@ -53,7 +53,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[deep-research](awesome-skills/introductions/zh/deep-research.md)** | 自主多步骤深度研究技能，利用 Gemini Deep Research Agent 进行市场分析、文献综述、尽职调查等，生成带引用的详细报告。 | ✅ 已验证 |
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/zh/twitter-algorithm-optimizer.md)** | 基于 Twitter 开源算法洞察分析并优化推文，以获得最大的传播范围。 | 🔍 待验证 |
 | **[humanizer](awesome-skills/introductions/zh/humanizer.md)** | 识别并消除文本中的 AI 写作痕迹，使文字听起来更自然、更具人情味。 | ✅ 已验证 |
-| **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | 🔍 待验证 |
+| **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | ✅ 已验证 |
 | **[multi-search-engine](awesome-skills/introductions/zh/multi-search-engine.md)** | 集成 17 个搜索引擎（8 个国内 + 9 个国际），支持高级搜索语法与 WolframAlpha 知识计算。 | 🔍 待验证 |
 | **[summarize](awesome-skills/introductions/zh/summarize.md)** | 全能摘要生成技能，支持 URL、本地文件（PDF、图像、音频）和 YouTube 链接的快速提炼。 | 🔍 待验证 |
 | **[gog](awesome-skills/introductions/zh/gog.md)** | Google Workspace CLI 技能，支持 Gmail、日历、云端硬盘、联系人、表格和文档的操作。 | 🔍 待验证 |
@@ -66,7 +66,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
 | **[imagen](awesome-skills/introductions/zh/imagen.md)** | 利用 Google Gemini 的图像生成能力，在 AI 编码会话期间直接生成图像。纯 Python 实现，零依赖。 | 🔍 待验证 |
 | **[canvas-design](awesome-skills/introductions/zh/canvas-design.md)** | 通过深度的设计哲学创作博物馆品质的视觉艺术作品，强调大师级工艺与极简文本。 | 🔍 待验证 |
-| **[frontend-slides](awesome-skills/introductions/zh/frontend-slides.md)** | 创建精美、动画丰富的 HTML 演示文稿，支持从零创建或从 PowerPoint 转换，内置 12 种精选视觉风格。 | 🔍 待验证 |
+| **[frontend-slides](awesome-skills/introductions/zh/frontend-slides.md)** | 创建精美、动画丰富的 HTML 演示文稿，支持从零创建或从 PowerPoint 转换，内置 12 种精选视觉风格。 | ✅ 已验证 |
 
 ### 开发与测试
 

@@ -53,7 +53,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[deep-research](awesome-skills/introductions/en/deep-research.md)** | Autonomous multi-step deep research skill powered by Gemini Deep Research Agent for market analysis, literature reviews, due diligence, and more — producing detailed, cited reports. | ✅ Verified |
 | **[twitter-algorithm-optimizer](awesome-skills/introductions/en/twitter-algorithm-optimizer.md)** | Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. | 🔍 Pending Verification |
 | **[humanizer](awesome-skills/introductions/en/humanizer.md)** | Remove signs of AI-generated writing from text to make it sound more natural and human-written. | ✅ Verified |
-| **[tavily-search](awesome-skills/introductions/en/tavily-search.md)** | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. | 🔍 Pending Verification |
+| **[tavily-search](awesome-skills/introductions/en/tavily-search.md)** | AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. | ✅ Verified |
 | **[multi-search-engine](awesome-skills/introductions/en/multi-search-engine.md)** | Multi search engine integration with 17 engines (8 CN + 9 Global). Supports advanced search operators, time filters, and WolframAlpha knowledge queries. | 🔍 Pending Verification |
 | **[summarize](awesome-skills/introductions/en/summarize.md)** | Fast CLI to summarize URLs, local files (PDFs, images, audio), and YouTube links using multiple LLM providers. | 🔍 Pending Verification |
 | **[gog](awesome-skills/introductions/en/gog.md)** | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. | 🔍 Pending Verification |
@@ -66,7 +66,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
 | **[imagen](awesome-skills/introductions/en/imagen.md)** | Generate images using Google Gemini's image generation capabilities. Pure Python implementation with zero dependencies. | 🔍 Pending Verification |
 | **[canvas-design](awesome-skills/introductions/en/canvas-design.md)** | Create museum-quality visual art through deep design philosophies, emphasizing master-level craftsmanship and minimal text. | 🔍 Pending Verification |
-| **[frontend-slides](awesome-skills/introductions/en/frontend-slides.md)** | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files, with 12 curated visual styles. | 🔍 Pending Verification |
+| **[frontend-slides](awesome-skills/introductions/en/frontend-slides.md)** | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files, with 12 curated visual styles. | ✅ Verified |
 
 ### Dev & Testing
 
