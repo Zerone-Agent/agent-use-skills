@@ -83,7 +83,7 @@ If no `SKILL.md` exists under `awesome-skills/skills/<skill-name>/`:
 
 > If a `SKILL.md` was found in Step 1 (Case A), base the introduction on the information from that file. Summarize and restructure the content to fit the introduction template below. Do NOT copy the SKILL.md verbatim — instead, distill it into a concise, reader-friendly introduction.
 
-- **File path**: `awesome-skills/skills/zh/<skill-name>.md`
+- **File path**: `awesome-skills/introductions/zh/<skill-name>.md`
 - **Content structure** (reference template):
 
 ```markdown
@@ -91,7 +91,11 @@ If no `SKILL.md` exists under `awesome-skills/skills/<skill-name>/`:
 
 **<Skill Name>** is ... (one-line summary)
 
-## Core Philosophy
+## 标签
+
+类别 | 验证状态
+
+## 核心理念
 - Point 1
 - Point 2
 - ...
@@ -124,8 +128,9 @@ For more information, visit: [GitHub - <repo>](<url>)
 
 > Same as Step 2 — if a `SKILL.md` exists, use it as the primary information source for the English version as well.
 
-- **File path**: `awesome-skills/skills/en/<skill-name>.md`
+- **File path**: `awesome-skills/introductions/en/<skill-name>.md`
 - Content should be the English translation of the Chinese version from Step 2.
+- Ensure the `## Tags` section uses English terms (e.g., "Category | Status").
 - Installation links should point to `INSTALL-en.md` files.
 
 ### Step 4: Create Platform-Specific Installation Guides
