@@ -2,6 +2,10 @@
 
 **OpenClaw Config Guard** is a safety-first maintenance skill for auditing and repairing OpenClaw configuration with deterministic validation, backups, rollback, and change reporting.
 
+## Tags
+
+⚙️ System Automation | ✅ Verified
+
 ## Core Philosophy
 - **Audit before repair**: Validate the active configuration and classify findings before changing anything.
 - **Trust official evidence**: Use official OpenClaw documentation and CLI output as the source of truth instead of memory.
