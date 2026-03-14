@@ -91,11 +91,11 @@ If no `SKILL.md` exists under `awesome-skills/skills/<skill-name>/`:
 
 **<Skill Name>** is ... (one-line summary)
 
-## 标签
+## Tags
 
-类别 | 验证状态
+Category | Status
 
-## 核心理念
+## Core Philosophy
 - Point 1
 - Point 2
 - ...
