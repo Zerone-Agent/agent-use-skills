@@ -38,7 +38,16 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 每个框架都有其独立的技能加载机制。请参考各技能目录下的安装指南获取具体框架的操作说明。
 
-## 🎯 技能列表
+## 👑 Agent-Ready SKILLs
+
+> [!NOTE]
+> [Agent-Ready](agent-ready/README-zh.md) 是一项认证计划，确保技能和软件能够与 AI Agent 平台无缝协作。
+
+| 技能名称 | 描述 | 状态 |
+| :--- | :--- | :--- |
+| **[skill-market](agent-ready/zh/skill-market.md)** | 从 Zerone Skill Market 自动发现并安装专业 Agent 技能。 | 👑 已认证 |
+
+## 🎯 SKILL 列表
 
 > [!NOTE]
 > 技能库正在加速整理中，更多高质量技能即将上线！
@@ -51,12 +60,9 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[github](awesome-skills/introductions/zh/github.md)** | GitHub 官方 CLI 集成，支持管理 Issue、PR 及监控 CI/CD 流水线运行详情。 | 🔍 待验证 |
 | **[content-research-writer](awesome-skills/introductions/zh/content-research-writer.md)** | 内容写作协作技能，帮助调研、构建大纲、撰写草稿并优化内容，支持引用管理，同时保持你独特的写作风格。 | ✅ 已验证 |
 | **[deep-research](awesome-skills/introductions/zh/deep-research.md)** | 自主多步骤深度研究技能，利用 Gemini Deep Research Agent 进行市场分析、文献综述、尽职调查等，生成带引用的详细报告。 | ✅ 已验证 |
-| **[twitter-algorithm-optimizer](awesome-skills/introductions/zh/twitter-algorithm-optimizer.md)** | 基于 Twitter 开源算法洞察分析并优化推文，以获得最大的传播范围。 | 🔍 待验证 |
 | **[humanizer](awesome-skills/introductions/zh/humanizer.md)** | 识别并消除文本中的 AI 写作痕迹，使文字听起来更自然、更具人情味。 | ✅ 已验证 |
 | **[tavily-search](awesome-skills/introductions/zh/tavily-search.md)** | 利用 Tavily API 为 AI Agent 优化的网络搜索技能。返回干净、相关的搜索结果。 | ✅ 已验证 |
 | **[multi-search-engine](awesome-skills/introductions/zh/multi-search-engine.md)** | 集成 17 个搜索引擎（8 个国内 + 9 个国际），支持高级搜索语法与 WolframAlpha 知识计算。 | 🔍 待验证 |
-| **[summarize](awesome-skills/introductions/zh/summarize.md)** | 全能摘要生成技能，支持 URL、本地文件（PDF、图像、音频）和 YouTube 链接的快速提炼。 | 🔍 待验证 |
-| **[gog](awesome-skills/introductions/zh/gog.md)** | Google Workspace CLI 技能，支持 Gmail、日历、云端硬盘、联系人、表格和文档的操作。 | 🔍 待验证 |
 | **[obsidian](awesome-skills/introductions/zh/obsidian.md)** | Obsidian 笔记管理技能，支持本地 Markdown 仓库的搜索、创建及链接同步重构。 | 🔍 待验证 |
 
 ### 设计与创意
