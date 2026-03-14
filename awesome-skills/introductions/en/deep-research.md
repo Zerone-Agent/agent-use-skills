@@ -4,7 +4,7 @@
 
 ## Tags
 
-Document & Office | Verified
+🗂️ Document & Office | ✅ Verified
 
 ## Core Philosophy
 - **Autonomous Research**: The agent automatically plans research strategies and completes multiple rounds of searching and analysis without human intervention.

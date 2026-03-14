@@ -4,7 +4,7 @@ The **GitHub** skill enables AI agents to interact directly with GitHub using th
 
 ## Tags
 
-Document & Office | Pending Verification
+🗂️ Document & Office | 🔍 Pending Verification
 
 ## Core Philosophy
 

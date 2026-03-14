@@ -4,7 +4,7 @@
 
 ## Tags
 
-Document & Office | Verified
+🗂️ Document & Office | ✅ Verified
 
 ## Core Philosophy
 - **Collaborate, Not Replace**: Offer suggestions and options rather than overriding your writing.

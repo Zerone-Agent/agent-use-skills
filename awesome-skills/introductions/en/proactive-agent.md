@@ -4,7 +4,7 @@
 
 ## Tags
 
-Dev & Testing | Pending Verification
+💻 Dev & Testing | 🔍 Pending Verification
 
 ## Core Philosophy
 

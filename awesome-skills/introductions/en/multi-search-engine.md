@@ -4,7 +4,7 @@
 
 ## Tags
 
-Document & Office | Pending Verification
+🗂️ Document & Office | 🔍 Pending Verification
 
 ## Core Philosophy
 - **No API Key Dependency**: Performs direct web data fetching, lowering the barrier to entry.

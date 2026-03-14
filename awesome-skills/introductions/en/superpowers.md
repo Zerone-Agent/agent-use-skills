@@ -4,7 +4,7 @@
 
 ## Tags
 
-Dev & Testing | Verified
+💻 Dev & Testing | ✅ Verified
 
 ## Core Philosophy
 The design of Superpowers emphasizes:

@@ -4,7 +4,7 @@
 
 ## Tags
 
-Dev & Testing | Verified
+💻 Dev & Testing | ✅ Verified
 
 ## Core Philosophy
 - **Automated Integration**: Eliminates manual downloads and configurations, providing a one-click experience for skill expansion.

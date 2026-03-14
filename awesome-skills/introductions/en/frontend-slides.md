@@ -4,7 +4,7 @@
 
 ## Tags
 
-Design & Creative | Verified
+🎨 Design & Creative | ✅ Verified
 
 ## Core Philosophy
 - **You Don't Need to Be a Designer**: Just react to what you see — the skill handles the design work for you.

@@ -4,7 +4,7 @@
 
 ## Tags
 
-Design & Creative | Pending Verification
+🎨 Design & Creative | 🔍 Pending Verification
 
 ## Core Philosophy
 
