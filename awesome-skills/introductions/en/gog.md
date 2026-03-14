@@ -2,6 +2,10 @@
 
 **Gog** is a powerful command-line interface (CLI) used to manage and interact with core Google Workspace services, including Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Unified Management**: Manage the entire Google ecosystem through a single `gog` command.

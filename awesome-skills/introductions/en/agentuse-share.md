@@ -2,6 +2,10 @@
 
 **AgentUse Share** is a standardized workflow skill designed to help developers and AI Agents efficiently contribute new AI coding skills to the `awesome-skills` repository. it covers the entire process from research and initial drafting to generating platform-specific installation guides.
 
+## Tags
+
+Dev & Testing | Verified
+
 ## Core Philosophy
 
 - **Standardization**: Defines a unified directory structure and documentation specification for Skills, ensuring high-quality community contributions.

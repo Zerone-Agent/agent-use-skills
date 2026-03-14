@@ -2,6 +2,10 @@
 
 **Tavily Search** is a web search skill optimized for AI Agents using the Tavily API. It is designed to provide clean, relevant, and non-scraper-aware search results, perfectly suited for direct consumption by AI agents.
 
+## Tags
+
+Document & Office | Verified
+
 ## Core Philosophy
 
 - **AI-Optimized**: Unlike traditional search engines, Tavily is purpose-built for AI training and agents, returning results that better fit large language models' processing needs.

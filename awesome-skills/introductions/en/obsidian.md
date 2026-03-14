@@ -2,6 +2,10 @@
 
 **Obsidian** is a skill designed to work with Obsidian vaults (plain Markdown notes) and automate tasks via `obsidian-cli`. It enables AI agents to manage, search, and update content within a local knowledge base.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Local-First**: An Obsidian vault is just a normal folder on disk. This skill respects this by directly operating on `.md` files or interacting with the Obsidian desktop app via URI protocols.

@@ -2,6 +2,10 @@
 
 **Content Research Writer** is a collaborative writing skill that acts as your writing partner, helping you research, outline, draft, and refine content while preserving your unique voice and style.
 
+## Tags
+
+Document & Office | Verified
+
 ## Core Philosophy
 - **Collaborate, Not Replace**: Offer suggestions and options rather than overriding your writing.
 - **Preserve Your Voice**: Learn your writing style and enhance it, not change it.

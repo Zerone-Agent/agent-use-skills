@@ -2,6 +2,10 @@
 
 **Skill Market** 是一个自动化的技能发现与安装技能，允许 AI Agent 从 Zerone Skill Market (https://api.zerone.market/api) 查找、浏览并安装全新的技能。
 
+## 标签
+
+开发与测试 | 已验证
+
 ## 核心理念
 - **自动化集成**：消除手动下载和配置技能的繁琐过程，实现一键式技能扩展。
 - **环境感知**：自动检测当前 Agent 框架（如 Claude Code, Cursor 等），并匹配最合适的安装方案。

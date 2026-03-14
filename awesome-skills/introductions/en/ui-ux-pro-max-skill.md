@@ -2,6 +2,10 @@
 
 **UI UX Pro Max** is an AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 
+## Tags
+
+Design & Creative | Verified
+
 ## Core Philosophy
 
 - **Design System Generation**: AI-powered reasoning engine that analyzes project requirements and generates complete, tailored design systems

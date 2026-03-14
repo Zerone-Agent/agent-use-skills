@@ -2,6 +2,10 @@
 
 **Canvas Design** is a visual arts creation skill designed to transform abstract concepts into museum-quality .png or .pdf visual works through deep design philosophies. More than just a drawing tool, it acts as an art direction system that emphasizes expert craftsmanship, minimalism, and visual communication.
 
+## Tags
+
+Design & Creative | Pending Verification
+
 ## Core Philosophy
 
 - **Philosophy-Driven**: Before any physical creation, a unique visual philosophy (e.g., "Brutalist Joy" or "Chromatic Silence") is articulated to serve as the soul of the artwork.

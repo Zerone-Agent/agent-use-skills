@@ -2,6 +2,10 @@
 
 **Playwright Skill** 是一个基于 [Playwright](https://playwright.dev/) 的全功能浏览器自动化技能。它旨在帮助开发者和 AI Agent 自动执行各种浏览器任务，包括网页测试、表单填充、截图采集、响应式设计检查、UX 验证以及复杂的登录流程自动化。
 
+## 标签
+
+开发与测试 | 待验证
+
 ## 核心理念
 
 - **自动化与智能探测 (Automation & Detection)**：能够自动探测本地正在运行的开发服务器（Dev Servers），无需手动输入 URL。

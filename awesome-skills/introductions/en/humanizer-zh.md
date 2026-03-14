@@ -2,6 +2,10 @@
 
 **Humanizer-zh** is a professional writing editing skill optimized specifically for the Chinese context. It is designed to identify and eliminate obvious signs of AI generation in text. Based on Wikipedia's comprehensive "Signs of AI writing" guide and deep adaptation for Chinese writing habits, it makes AI-generated text sound more natural and human-like.
 
+## Tags
+
+Document & Office | Verified
+
 ## Core Philosophy
 
 - **De-AIification**: Precisely identifies common Chinese AI "tics" (e.g., "Additionally," "In summary," "Crucial"), overused punctuation (e.g., em dashes —), and hollow promotional rhetoric.

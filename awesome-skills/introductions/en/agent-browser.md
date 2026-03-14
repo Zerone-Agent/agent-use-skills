@@ -2,6 +2,10 @@
 
 **Agent Browser** is a Rust-based high-performance headless browser automation CLI with Node.js fallback. It enables AI agents to navigate, click, type, and snapshot pages via structured commands.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Agent-Friendly**: Provides a list of interactive elements with simplified references (e.g., `@e1`, `@e2`) via `snapshot -i`, significantly reducing the complexity for Agents to parse the DOM.

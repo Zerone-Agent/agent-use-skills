@@ -2,6 +2,10 @@
 
 **Deep Research** is an autonomous multi-step research skill powered by Google's Gemini Deep Research Agent. Unlike standard LLM queries that respond in seconds, Deep Research is an "analyst-in-a-box" that plans, searches, reads, and synthesizes information into comprehensive, cited reports.
 
+## Tags
+
+Document & Office | Verified
+
 ## Core Philosophy
 - **Autonomous Research**: The agent automatically plans research strategies and completes multiple rounds of searching and analysis without human intervention.
 - **Deep Synthesis**: Goes beyond simple information retrieval to perform in-depth analysis and synthesis across multiple sources.

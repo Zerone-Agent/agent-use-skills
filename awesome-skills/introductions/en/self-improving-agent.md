@@ -2,6 +2,10 @@
 
 **Self-Improving Agent** is a skill designed to capture learnings, errors, and corrections to enable continuous improvement of AI agents.
 
+## Tags
+
+Dev & Testing | Pending Verification
+
 ## Core Philosophy
 
 - **Continuous Evolution**: Enables AI to learn from operational failures, user corrections, knowledge gaps, and best practices to avoid repeating mistakes.

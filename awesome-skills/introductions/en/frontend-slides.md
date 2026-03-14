@@ -2,6 +2,10 @@
 
 **Frontend Slides** is a Claude Code skill for creating stunning, animation-rich HTML presentations — from scratch or by converting PowerPoint files. It helps non-designers create beautiful web presentations without knowing CSS or JavaScript.
 
+## Tags
+
+Design & Creative | Verified
+
 ## Core Philosophy
 - **You Don't Need to Be a Designer**: Just react to what you see — the skill handles the design work for you.
 - **Zero Dependencies = Freedom**: Generated single HTML files have no framework dependencies and will work in 10 years.

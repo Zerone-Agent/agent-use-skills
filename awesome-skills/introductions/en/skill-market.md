@@ -2,6 +2,10 @@
 
 **Skill Market** is an automated skill discovery and installation skill that enables AI Agents to find, explore, and install new skills directly from the Zerone Skill Market (https://api.zerone.market/api).
 
+## Tags
+
+Dev & Testing | Verified
+
 ## Core Philosophy
 - **Automated Integration**: Eliminates manual downloads and configurations, providing a one-click experience for skill expansion.
 - **Environment Awareness**: Automatically detects the current Agent framework (e.g., Claude Code, Cursor) and matches the best installation plan.

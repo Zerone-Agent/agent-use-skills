@@ -2,6 +2,10 @@
 
 **Summarize** is a powerful all-in-one content summary skill that supports fast distillation of URLs, local files (such as PDFs), audio, video, and YouTube links.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Full Format Support**: Handles not just text-based web pages, but also PDFs, multimedia files, and YouTube videos.

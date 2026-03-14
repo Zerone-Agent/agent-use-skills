@@ -2,6 +2,10 @@
 
 **Superpowers** is an agentic skills framework and software development methodology designed for AI coding agents. Built on a system of composable "skills," it aims to elevate AI assistants from simple code generators to mature software engineers through standardized workflows.
 
+## Tags
+
+Dev & Testing | Verified
+
 ## Core Philosophy
 The design of Superpowers emphasizes:
 - **Test-Driven Development (TDD)**: Write tests first; always verify the correctness of the code.

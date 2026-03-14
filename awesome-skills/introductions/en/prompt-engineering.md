@@ -2,6 +2,10 @@
 
 **Prompt Engineering** is a set of advanced prompt patterns and best practices specifically designed for AI Agents. It integrates Anthropic's official recommendations, persuasion psychology principles, and production-grade LLM interaction patterns.
 
+## Tags
+
+Dev & Testing | Pending Verification
+
 ## Core Philosophy
 
 - **Control & Predictability**: Ensures high consistency and controllability of AI outputs through structured instruction hierarchies and Few-Shot learning.

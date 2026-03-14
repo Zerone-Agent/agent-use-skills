@@ -2,6 +2,10 @@
 
 **Proactive Agent** is an architecture and skill set designed to transform AI agents from "task followers" into "proactive partners." It encompasses a complete system for persistent memory management, self-improvement guidelines, and security hardening, ensuring agents can anticipate user needs, recover swiftly from context loss, and continuously optimize their performance.
 
+## Tags
+
+Dev & Testing | Pending Verification
+
 ## Core Philosophy
 
 - **Anticipate Needs**: Instead of just asking "What should I do?", proactively think "What can I build that would genuinely delight my human?"

@@ -2,6 +2,10 @@
 
 **Imagen** is a skill that leverages Google Gemini's image generation capabilities to generate images directly during AI coding sessions.
 
+## Tags
+
+Design & Creative | Pending Verification
+
 ## Core Philosophy
 
 - **Seamless Integration**: Generate images using natural language requests directly in your conversation without leaving the terminal or editor.

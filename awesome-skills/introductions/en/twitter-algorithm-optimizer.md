@@ -2,6 +2,10 @@
 
 **Twitter Algorithm Optimizer** is a skill built on insights from Twitter's open-source algorithm. It analyzes and optimizes tweet content to maximize reach and engagement.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Algorithm Transparency**: Leverages Twitter's open-sourced mechanisms (e.g., Real-graph, SimClusters) to reveal the logic behind content distribution.

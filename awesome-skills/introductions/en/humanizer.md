@@ -2,6 +2,10 @@
 
 **Humanizer** is a professional writing editor skill designed to identify and remove obvious signs of AI-generated text. Based on Wikipedia's "Signs of AI writing" guide, it makes writing sound more natural and human by eliminating over-polishing, stereotypical patterns, and empty persuasive rhetoric.
 
+## Tags
+
+Document & Office | Verified
+
 ## Core Philosophy
 
 - **De-AI-fication**: Identifies and rewrites common AI "verbal tics" (e.g., "Moreover," "In summary"), overused punctuation (e.g., em dashes —), and hollow generalized descriptions.

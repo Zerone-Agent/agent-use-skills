@@ -2,6 +2,10 @@
 
 **Twitter Algorithm Optimizer** 是一个基于 Twitter 开源算法洞察的技能，旨在分析并优化推文内容，以获得最大的传播范围和用户参与度。
 
+## 标签
+
+文档与办公 | 待验证
+
 ## 核心理念
 
 - **算法透明化**：利用 Twitter 开源的算法机制（如 Real-graph, SimClusters），揭秘内容分发的底层逻辑。

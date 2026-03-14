@@ -2,6 +2,10 @@
 
 The **GitHub** skill enables AI agents to interact directly with GitHub using the official `gh` CLI. It covers everything from project management (Issues/PRs) to automation or maintenance (Actions/Runs), making development workflows more intelligent.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 
 - **Official Integration**: Built on the official GitHub CLI to ensure stability and security.

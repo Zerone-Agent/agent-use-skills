@@ -2,6 +2,10 @@
 
 **Multi Search Engine** is a search engine integration tool requiring no API Keys, aggregating 8 domestic and 9 global search engines while supporting advanced search operators and privacy awareness.
 
+## Tags
+
+Document & Office | Pending Verification
+
 ## Core Philosophy
 - **No API Key Dependency**: Performs direct web data fetching, lowering the barrier to entry.
 - **Comprehensive Coverage**: Integrates mainstream engines across domestic and global spaces, meeting diverse regional and informational search needs.

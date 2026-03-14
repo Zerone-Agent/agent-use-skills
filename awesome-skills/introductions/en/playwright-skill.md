@@ -2,6 +2,10 @@
 
 **Playwright Skill** is a full-featured browser automation tool based on [Playwright](https://playwright.dev/). It is designed to help developers and AI Agents automate a wide variety of browser tasks, including web testing, form filling, screenshot capturing, responsive design checks, UX validation, and complex login flow automation.
 
+## Tags
+
+Dev & Testing | Pending Verification
+
 ## Core Philosophy
 
 - **Automation & Intelligent Detection**: Capable of automatically detecting running local development servers, eliminating the need to manually input URLs.
