@@ -2,7 +2,7 @@
 
 ## 前置条件
 
-- 已安装 [OpenClaw](https://github.com/nicepkg/openclaw)
+- 已安装 OpenClaw
 - 已安装 Git
 - 确保已安装 Python（推荐使用 `uv`，但非必须）
 

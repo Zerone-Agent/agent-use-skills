@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [OpenClaw](https://github.com/nicepkg/openclaw) installed
+- OpenClaw installed
 - Git installed
 - Ensure you have Python installed (`uv` is recommended but optional)
 

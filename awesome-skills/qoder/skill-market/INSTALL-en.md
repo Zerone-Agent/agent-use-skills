@@ -11,34 +11,37 @@
 ### 1. Clone agent-use-skills
 
 ```bash
-git clone https://github.com/Zerone-Agent/agent-use-skills.git
+git clone https://github.com/Zerone-Agent/agent-use-skills.git ~/.qoder/agent-use-skills
 ```
 
-### 2. Configure Skill
+### 2. Symlink Skills
 
-Place the `skill-market` directory and its contents in your project root or designated skills directory for Qoder, or simply run it from the cloned repository.
+Create a symlink so Qoder discovers the skill-market skill:
+
+```bash
+mkdir -p ~/.qoder/skills
+rm -rf ~/.qoder/skills/skill-market
+ln -s ~/.qoder/agent-use-skills/awesome-skills/skills/skill-market ~/.qoder/skills/skill-market
+```
 
 ### 3. Verify Installation
 
-Run the following command to verify the environment:
+Run the following command or restart Qoder and ask to verify:
 
 ```bash
-agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+~/.qoder/agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
 ```
 
-## Verify Connection
+Or ask in Qoder:
+- "List all available skills on the skill market"
+- "do you have skill-market?"
 
-Try searching for a known skill to verify the connection:
-```bash
-agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
-```
-
-If the details for the skill are returned successfully, the installation is verified.
+If successful, Qoder will automatically recognize and invoke the Skill Market workflow.
 
 ## Updating
 
 ```bash
-cd agent-use-skills
+cd ~/.qoder/agent-use-skills
 git pull
 ```
 
