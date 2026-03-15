@@ -1,17 +1,50 @@
-# Install Skill Market (OpenClaw)
+# Installing Skill Market for OpenClaw
 
-This guide describes how to configure **Skill Market** in OpenClaw.
+## Prerequisites
+
+- [OpenClaw](https://github.com/nicepkg/openclaw) installed
+- Git installed
+- Ensure your Python environment can use `uv`
 
 ## Installation Steps
 
-1. **Environmental Dependencies**:
-   Ensure your Python environment can use `uv`.
+### 1. Clone agent-use-skills
 
-2. **Verify**:
-   Execute:
-   ```bash
-   uv run awesome-skills/skills/skill-market/scripts/market.py list
-   ```
+```bash
+git clone https://github.com/Zerone-Agent/agent-use-skills.git ~/.openclaw/agent-use-skills
+```
 
----
-Reference: [Zerone Agent SDK](https://github.com/zerone-agent/agent-use-skills)
+### 2. Symlink Skills
+
+Create a symlink so OpenClaw discovers the skill-market skill:
+
+```bash
+mkdir -p ~/.openclaw/skills
+rm -rf ~/.openclaw/skills/skill-market
+ln -s ~/.openclaw/agent-use-skills/awesome-skills/skills/skill-market ~/.openclaw/skills/skill-market
+```
+
+### 3. Verify Installation
+
+Run the following command or restart OpenClaw and ask to verify:
+
+```bash
+uv run ~/.openclaw/agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+```
+
+Or ask in OpenClaw:
+- "List all available skills on the skill market"
+- "do you have skill-market?"
+
+If successful, OpenClaw will automatically recognize and invoke the Skill Market workflow.
+
+## Updating
+
+```bash
+cd ~/.openclaw/agent-use-skills
+git pull
+```
+
+## Getting Help
+
+- Report issues: https://github.com/Zerone-Agent/agent-use-skills/issues
