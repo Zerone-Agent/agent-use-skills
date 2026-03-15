@@ -4,7 +4,7 @@
 
 - 已安装 [OpenClaw](https://github.com/nicepkg/openclaw)
 - 已安装 Git
-- 确保你的 Python 环境可以使用 `uv`
+- 确保已安装 Python（推荐使用 `uv`，但非必须）
 
 ## 安装步骤
 
@@ -29,7 +29,7 @@ ln -s ~/.openclaw/agent-use-skills/awesome-skills/skills/skill-market ~/.opencla
 执行以下命令或重启 OpenClaw 后询问以验证是否安装成功：
 
 ```bash
-uv run ~/.openclaw/agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+~/.openclaw/agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
 ```
 
 或者在 OpenClaw 中尝试询问：

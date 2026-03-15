@@ -4,7 +4,7 @@
 
 - 已安装 Claude Code
 - 已安装 Git
-- 确保你的 Python 环境可以使用 `uv`
+- 确保已安装 Python（推荐使用 `uv`，但非必须）
 
 ## 安装步骤
 
@@ -23,14 +23,14 @@ git clone https://github.com/Zerone-Agent/agent-use-skills.git
 运行以下命令以验证环境：
 
 ```bash
-uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
 ```
 
 ## 测试连接
 
 您可以尝试搜索一个已知技能来验证连接：
 ```bash
-uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
+agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
 ```
 
 如果成功返回了技能的详细信息，说明安装成功。

@@ -4,7 +4,7 @@
 
 - Codex installed
 - Git installed
-- Ensure your Python environment can use `uv`
+- Ensure you have Python installed (`uv` is recommended but optional)
 
 ## Installation Steps
 
@@ -23,14 +23,14 @@ Place the `skill-market` directory and its contents in your project root or desi
 Run the following command to verify the environment:
 
 ```bash
-uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
 ```
 
 ## Verify Connection
 
 Try searching for a known skill to verify the connection:
 ```bash
-uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
+agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
 ```
 
 If the details for the skill are returned successfully, the installation is verified.
