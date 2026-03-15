@@ -1,27 +1,47 @@
-# Install Skill Market (Cursor)
+# Installing Skill Market for Cursor
 
-This guide describes how to configure and use the **Skill Market** skill in Cursor.
+## Prerequisites
+
+- Cursor installed
+- Git installed
+- Ensure your Python environment can use `uv`
 
 ## Installation Steps
 
-1. **Environmental Dependencies**:
-   Ensure `uv` (recommended) or `python 3.10+` is installed on your system.
+### 1. Clone agent-use-skills
 
-2. **Configure Skill**:
-   You can run the market scripts directly in the Cursor terminal. To use it in Agent mode, ensure the path to `scripts/market.py` is correct.
-
-3. **Test Connection**:
-   Open Cursor terminal and run:
-   ```bash
-   uv run awesome-skills/skills/skill-market/scripts/market.py list
-   ```
-
-## Verify Installation
-
-Query skill details:
 ```bash
-uv run awesome-skills/skills/skill-market/scripts/market.py info agent-browser
+git clone https://github.com/Zerone-Agent/agent-use-skills.git
 ```
 
----
-Reference: [Zerone Agent SDK](https://github.com/zerone-agent/agent-use-skills)
+### 2. Configure Skill
+
+Place the `skill-market` directory and its contents in your project root or designated skills directory for Cursor, or simply run it from the cloned repository.
+
+### 3. Verify Installation
+
+Run the following command to verify the environment:
+
+```bash
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+```
+
+## Verify Connection
+
+Try searching for a known skill to verify the connection:
+```bash
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
+```
+
+If the details for the skill are returned successfully, the installation is verified.
+
+## Updating
+
+```bash
+cd agent-use-skills
+git pull
+```
+
+## Getting Help
+
+- Report issues: https://github.com/Zerone-Agent/agent-use-skills/issues

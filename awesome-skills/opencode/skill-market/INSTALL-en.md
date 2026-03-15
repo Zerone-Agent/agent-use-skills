@@ -1,24 +1,47 @@
-# Install Skill Market (OpenCode)
+# Installing Skill Market for OpenCode
 
-This guide describes how to use the **Skill Market** skill in OpenCode.
+## Prerequisites
+
+- OpenCode installed
+- Git installed
+- Ensure your Python environment can use `uv`
 
 ## Installation Steps
 
-1. **Environmental Preparation**:
-   OpenCode is highly compatible with the `uv` environment. Ensure `uv` is installed.
+### 1. Clone agent-use-skills
 
-2. **Verify Tool**:
-   Run the following command in the OpenCode terminal:
-   ```bash
-   uv run awesome-skills/skills/skill-market/scripts/market.py list
-   ```
-
-## Verify Installation
-
-Check skill compatibility:
 ```bash
-uv run awesome-skills/skills/skill-market/scripts/market.py info content-research-writer
+git clone https://github.com/Zerone-Agent/agent-use-skills.git
 ```
 
----
-Reference: [Zerone Agent GitHub](https://github.com/zerone-agent/agent-use-skills)
+### 2. Configure Skill
+
+Place the `skill-market` directory and its contents in your project root or designated skills directory for OpenCode, or simply run it from the cloned repository.
+
+### 3. Verify Installation
+
+Run the following command to verify the environment:
+
+```bash
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+```
+
+## Verify Connection
+
+Try searching for a known skill to verify the connection:
+```bash
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
+```
+
+If the details for the skill are returned successfully, the installation is verified.
+
+## Updating
+
+```bash
+cd agent-use-skills
+git pull
+```
+
+## Getting Help
+
+- Report issues: https://github.com/Zerone-Agent/agent-use-skills/issues

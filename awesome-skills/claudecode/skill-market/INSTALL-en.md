@@ -1,36 +1,47 @@
-# Install Skill Market (Claude Code)
+# Installing Skill Market for Claude Code
 
-This guide describes how to install and verify the **Skill Market** skill in Claude Code.
+## Prerequisites
+
+- Claude Code installed
+- Git installed
+- Ensure your Python environment can use `uv`
 
 ## Installation Steps
 
-1. **Environmental Preparation**:
-   This skill relies on `uv` for Python environment management. Ensure `uv` is installed on your system.
+### 1. Clone agent-use-skills
 
-2. **Add Skill Files**:
-   Place the `skill-market` directory and its contents in your project root or designated skills directory.
-   Ensure `awesome-skills/skills/skill-market/scripts/market.py` has execution permissions.
+```bash
+git clone https://github.com/Zerone-Agent/agent-use-skills.git
+```
 
-3. **Run Initial Check**:
-   Run the following command in Claude Code to verify the environment:
-   ```bash
-   uv run awesome-skills/skills/skill-market/scripts/market.py list
-   ```
+### 2. Configure Skill
 
-## Verify Installation
+Place the `skill-market` directory and its contents in your project root or designated skills directory for Claude Code, or simply run it from the cloned repository.
+
+### 3. Verify Installation
+
+Run the following command to verify the environment:
+
+```bash
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py list
+```
+
+## Verify Connection
 
 Try searching for a known skill to verify the connection:
 ```bash
-uv run awesome-skills/skills/skill-market/scripts/market.py info imagen
+uv run agent-use-skills/awesome-skills/skills/skill-market/scripts/market.py info agent-browser
 ```
-If the details for the `imagen` skill are returned successfully, the installation is verified.
 
-## Update Method
+If the details for the skill are returned successfully, the installation is verified.
 
-Simply pull the latest code from the `agent-use-skills` repository:
+## Updating
+
 ```bash
-git pull origin main
+cd agent-use-skills
+git pull
 ```
 
----
-Reference: [Zerone Agent SDK](https://github.com/zerone-agent/agent-use-skills)
+## Getting Help
+
+- Report issues: https://github.com/Zerone-Agent/agent-use-skills/issues
