@@ -28,7 +28,7 @@ Skill Market supports the following AI editors and platforms:
 - [Codex](../../codex/skill-market/INSTALL-en.md)
 - [OpenCode](../../opencode/skill-market/INSTALL-en.md)
 - [OpenClaw](../../openclaw/skill-market/INSTALL-en.md)
-- [OpenAgent](../../openagent/skill-market/INSTALL-en.md)
+- [Zerone](../../zerone/skill-market/INSTALL-en.md)
 - [Qoder](../../qoder/skill-market/INSTALL-en.md)
 
 ---

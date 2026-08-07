@@ -33,7 +33,7 @@ Humanizer-zh supports the following platforms:
 - [OpenCode](../../opencode/humanizer-zh/INSTALL-en.md)
 - [Codex](../../codex/humanizer-zh/INSTALL-en.md)
 - [OpenClaw](../../openclaw/humanizer-zh/INSTALL-en.md)
-- [OpenAgent](../../openagent/humanizer-zh/INSTALL-en.md)
+- [Zerone](../../zerone/humanizer-zh/INSTALL-en.md)
 - [Qoder](../../qoder/humanizer-zh/INSTALL-en.md)
 
 ---

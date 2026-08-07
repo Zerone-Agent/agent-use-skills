@@ -28,7 +28,7 @@ Skill Market 能够完美支持以下 AI 编辑器与平台：
 - [Codex](../../codex/skill-market/INSTALL-zh.md)
 - [OpenCode](../../opencode/skill-market/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/skill-market/INSTALL-zh.md)
-- [OpenAgent](../../openagent/skill-market/INSTALL-zh.md)
+- [Zerone](../../zerone/skill-market/INSTALL-zh.md)
 - [Qoder](../../qoder/skill-market/INSTALL-zh.md)
 
 ---

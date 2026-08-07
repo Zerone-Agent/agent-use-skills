@@ -45,7 +45,7 @@ Video Summarizer supports the following AI editors and platforms:
 - [Codex](../../codex/video-summarizer/INSTALL-en.md)
 - [OpenCode](../../opencode/video-summarizer/INSTALL-en.md)
 - [OpenClaw](../../openclaw/video-summarizer/INSTALL-en.md)
-- [OpenAgent](../../openagent/video-summarizer/INSTALL-en.md)
+- [Zerone](../../zerone/video-summarizer/INSTALL-en.md)
 - [Qoder](../../qoder/video-summarizer/INSTALL-en.md)
 
 ---

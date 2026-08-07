@@ -62,6 +62,6 @@ rm -rf ~/.<platform>/skills/<skill-name>
 | Codex       | `~/.codex/skills/`        | `~/.codex/agent-use-skills/`       |
 | OpenCode    | `~/.config/opencode/skills/` | `~/.config/opencode/agent-use-skills/` |
 | OpenClaw    | `~/.openclaw/skills/`     | `~/.openclaw/agent-use-skills/`    |
-| OpenAgent   | `~/.openagent/skills/`    | `~/.openagent/agent-use-skills/`   |
+| Zerone   | `~/.agents/skills/`    | `~/.agents/agent-use-skills/`   |
 | Qoder       | `~/.qoder/skills/`        | `~/.qoder/agent-use-skills/`       |
 ```

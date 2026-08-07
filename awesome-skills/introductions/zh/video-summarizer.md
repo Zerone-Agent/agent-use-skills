@@ -45,7 +45,7 @@ Video Summarizer 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/video-summarizer/INSTALL-zh.md)
 - [OpenCode](../../opencode/video-summarizer/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/video-summarizer/INSTALL-zh.md)
-- [OpenAgent](../../openagent/video-summarizer/INSTALL-zh.md)
+- [Zerone](../../zerone/video-summarizer/INSTALL-zh.md)
 - [Qoder](../../qoder/video-summarizer/INSTALL-zh.md)
 
 ---

@@ -48,7 +48,7 @@ Obsidian CLI supports the following AI editors and platforms:
 - [Codex](../../codex/obsidian-cli/INSTALL-en.md)
 - [OpenCode](../../opencode/obsidian-cli/INSTALL-en.md)
 - [OpenClaw](../../openclaw/obsidian-cli/INSTALL-en.md)
-- [OpenAgent](../../openagent/obsidian-cli/INSTALL-en.md)
+- [Zerone](../../zerone/obsidian-cli/INSTALL-en.md)
 - [Qoder](../../qoder/obsidian-cli/INSTALL-en.md)
 
 ---

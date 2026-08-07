@@ -27,7 +27,7 @@ Colleague Skill 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/colleague-skill/INSTALL-zh.md)
 - [OpenCode](../../opencode/colleague-skill/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/colleague-skill/INSTALL-zh.md)
-- [OpenAgent](../../openagent/colleague-skill/INSTALL-zh.md)
+- [Zerone](../../zerone/colleague-skill/INSTALL-zh.md)
 - [Qoder](../../qoder/colleague-skill/INSTALL-zh.md)
 
 ---

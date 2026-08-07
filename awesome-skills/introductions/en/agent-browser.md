@@ -34,7 +34,7 @@ Agent Browser currently supports the following platforms:
 - [Codex](../../codex/agent-browser/INSTALL-en.md)
 - [OpenCode](../../opencode/agent-browser/INSTALL-en.md)
 - [OpenClaw](../../openclaw/agent-browser/INSTALL-en.md)
-- [OpenAgent](../../openagent/agent-browser/INSTALL-en.md)
+- [Zerone](../../zerone/agent-browser/INSTALL-en.md)
 - [Qoder](../../qoder/agent-browser/INSTALL-en.md)
 
 ---

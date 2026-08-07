@@ -46,7 +46,7 @@ Deep Research 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/deep-research/INSTALL-zh.md)
 - [OpenCode](../../opencode/deep-research/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/deep-research/INSTALL-zh.md)
-- [OpenAgent](../../openagent/deep-research/INSTALL-zh.md)
+- [Zerone](../../zerone/deep-research/INSTALL-zh.md)
 - [Qoder](../../qoder/deep-research/INSTALL-zh.md)
 
 ---

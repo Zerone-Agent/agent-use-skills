@@ -54,7 +54,7 @@ LJG Skills 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/ljg-skills/INSTALL-zh.md)
 - [OpenCode](../../opencode/ljg-skills/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/ljg-skills/INSTALL-zh.md)
-- [OpenAgent](../../openagent/ljg-skills/INSTALL-zh.md)
+- [Zerone](../../zerone/ljg-skills/INSTALL-zh.md)
 - [Qoder](../../qoder/ljg-skills/INSTALL-zh.md)
 
 ---

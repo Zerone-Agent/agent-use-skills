@@ -66,7 +66,7 @@ Only after explicit user approval, execute the instructions to install the skill
 
 **User:** "Can you help me install the imagen skill from the market?"
 
-1. **Agent:** Runs `scripts/market.py list openagent`
+1. **Agent:** Runs `scripts/market.py list zerone`
 2. **Agent:** Finds `imagen` in the list.
 3. **Agent:** Runs `scripts/market.py info imagen`
 4. **Agent:** Note that `Claude Code` is supported.

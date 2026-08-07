@@ -21,7 +21,7 @@ OfficeCLI 成功满足了 Agent-Ready 认证的所有核心标准：
 - **原子化动作开放**：核心功能通过 CLI 命令全面暴露 — `create`、`view`、`get`、`set`、`add`、`remove`、`move`、`swap`、`query`、`batch`、`merge`、`dump`、`watch`、`validate` — 无需 UI 交互。三层架构：L1 语义视图、L2 DOM 操作、L3 原始 XML 兜底。
 - **结构化反馈**：所有命令支持 `--json`，schema 一致。结构化错误码（`not_found`、`invalid_value`、`unsupported_property`）包含建议修正和有效范围 — 智能体无需人工介入即可自纠错。
 - **安全护栏**：`validate` 校验 OpenXML 模式；`view issues` 枚举格式、内容和结构性问题；`watch` 提供实时预览供人工审查后交付。
-- **经过验证的集成**：在 Claude Code、Cursor、Codex、OpenCode、OpenClaw、OpenAgent、Qoder 等主流 AI Agent 平台上经过广泛测试。安装时自动检测 AI 工具并完成配置。
+- **经过验证的集成**：在 Claude Code、Cursor、Codex、OpenCode、OpenClaw、Zerone、Qoder 等主流 AI Agent 平台上经过广泛测试。安装时自动检测 AI 工具并完成配置。
 
 ## 核心 CLI 命令
 

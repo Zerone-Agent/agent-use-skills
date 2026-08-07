@@ -30,7 +30,7 @@
 Self-Improving Agent currently primarily supports the following platforms:
 
 - [OpenClaw](../../openclaw/self-improving-agent/INSTALL-en.md)
-- [OpenAgent](../../openagent/self-improving-agent/INSTALL-en.md)
+- [Zerone](../../zerone/self-improving-agent/INSTALL-en.md)
 
 ---
 For more information, visit: [GitHub - peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent)

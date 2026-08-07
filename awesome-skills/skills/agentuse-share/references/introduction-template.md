@@ -40,7 +40,7 @@
 - [Codex](../../codex/<skill-name>/INSTALL-zh.md)               <!-- only if supported -->
 - [OpenCode](../../opencode/<skill-name>/INSTALL-zh.md)         <!-- only if supported -->
 - [OpenClaw](../../openclaw/<skill-name>/INSTALL-zh.md)         <!-- only if supported -->
-- [OpenAgent](../../openagent/<skill-name>/INSTALL-zh.md)       <!-- only if supported -->
+- [Zerone](../../zerone/<skill-name>/INSTALL-zh.md)       <!-- only if supported -->
 - [Qoder](../../qoder/<skill-name>/INSTALL-zh.md)               <!-- only if supported -->
 
 ---
@@ -87,7 +87,7 @@ For more information, visit: [GitHub - <repo>](<url>)
 - [Codex](../../codex/<skill-name>/INSTALL-en.md)               <!-- only if supported -->
 - [OpenCode](../../opencode/<skill-name>/INSTALL-en.md)         <!-- only if supported -->
 - [OpenClaw](../../openclaw/<skill-name>/INSTALL-en.md)         <!-- only if supported -->
-- [OpenAgent](../../openagent/<skill-name>/INSTALL-en.md)       <!-- only if supported -->
+- [Zerone](../../zerone/<skill-name>/INSTALL-en.md)       <!-- only if supported -->
 - [Qoder](../../qoder/<skill-name>/INSTALL-en.md)               <!-- only if supported -->
 
 ---

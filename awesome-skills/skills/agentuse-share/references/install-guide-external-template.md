@@ -69,6 +69,6 @@ done
 | Codex       | `~/.codex/skills/`        | `~/.codex/`                         |
 | OpenCode    | `~/.config/opencode/skills/` | `~/.config/opencode/`           |
 | OpenClaw    | `~/.openclaw/skills/`     | `~/.openclaw/`                      |
-| OpenAgent   | `~/.openagent/skills/`    | `~/.openagent/`                     |
+| Zerone   | `~/.agents/skills/`    | `~/.agents/`                     |
 | Qoder       | `~/.qoder/skills/`        | `~/.qoder/`                         |
 ```

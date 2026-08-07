@@ -51,7 +51,7 @@ Skill Creator 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/skill-creator/INSTALL-zh.md)
 - [OpenCode](../../opencode/skill-creator/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/skill-creator/INSTALL-zh.md)
-- [OpenAgent](../../openagent/skill-creator/INSTALL-zh.md)
+- [Zerone](../../zerone/skill-creator/INSTALL-zh.md)
 - [Qoder](../../qoder/skill-creator/INSTALL-zh.md)
 
 ---

@@ -60,7 +60,7 @@ Reports Summary 支持以下 AI 编辑器和平台：
 - [Cursor](../../cursor/reports-summary/INSTALL-zh.md)
 - [OpenCode](../../opencode/reports-summary/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/reports-summary/INSTALL-zh.md)
-- [OpenAgent](../../openagent/reports-summary/INSTALL-zh.md)
+- [Zerone](../../zerone/reports-summary/INSTALL-zh.md)
 - [Qoder](../../qoder/reports-summary/INSTALL-zh.md)
 
 ---

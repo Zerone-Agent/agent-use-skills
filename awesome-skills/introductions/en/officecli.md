@@ -39,7 +39,7 @@ OfficeCLI supports the following AI editors and platforms:
 - [Codex](../../codex/officecli/INSTALL-en.md)
 - [OpenCode](../../opencode/officecli/INSTALL-en.md)
 - [OpenClaw](../../openclaw/officecli/INSTALL-en.md)
-- [OpenAgent](../../openagent/officecli/INSTALL-en.md)
+- [Zerone](../../zerone/officecli/INSTALL-en.md)
 - [Qoder](../../qoder/officecli/INSTALL-en.md)
 
 ---

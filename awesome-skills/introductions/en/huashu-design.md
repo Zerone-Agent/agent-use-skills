@@ -41,7 +41,7 @@ Huashu Design supports the following AI editors and platforms:
 - [Codex](../../codex/huashu-design/INSTALL-en.md)
 - [OpenCode](../../opencode/huashu-design/INSTALL-en.md)
 - [OpenClaw](../../openclaw/huashu-design/INSTALL-en.md)
-- [OpenAgent](../../openagent/huashu-design/INSTALL-en.md)
+- [Zerone](../../zerone/huashu-design/INSTALL-en.md)
 - [Qoder](../../qoder/huashu-design/INSTALL-en.md)
 
 ---

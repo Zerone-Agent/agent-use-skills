@@ -48,7 +48,7 @@ Obsidian CLI 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/obsidian-cli/INSTALL-zh.md)
 - [OpenCode](../../opencode/obsidian-cli/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/obsidian-cli/INSTALL-zh.md)
-- [OpenAgent](../../openagent/obsidian-cli/INSTALL-zh.md)
+- [Zerone](../../zerone/obsidian-cli/INSTALL-zh.md)
 - [Qoder](../../qoder/obsidian-cli/INSTALL-zh.md)
 
 ---

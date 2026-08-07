@@ -23,7 +23,7 @@
    - **图像转代码类技能**：先生成参考图、分析后再实现（image-to-code-skill）。
 3. **可调旋钮**（仅 taste-skill 主技能）：DESIGN_VARIANCE（布局实验度）、MOTION_INTENSITY（动画强度）、VISUAL_DENSITY（信息密度），数值 1-10。
 4. **v1 / v2 双版本**：默认 v2 实验版（含 brief 推断、design-system 映射、硬性禁用 em-dash、规范化的 GSAP 代码骨架、redesign-audit 协议、严格的 pre-flight 检查），同时保留 v1 供依赖原行为的用户。
-5. **跨平台兼容**：基于 SKILL.md 这种可移植指令文件，主流编码 Agent（Claude Code、Cursor、Codex、OpenCode、OpenClaw、OpenAgent、Qoder）均可加载。
+5. **跨平台兼容**：基于 SKILL.md 这种可移植指令文件，主流编码 Agent（Claude Code、Cursor、Codex、OpenCode、OpenClaw、Zerone、Qoder）均可加载。
 
 ## Skills Library Overview
 
@@ -46,7 +46,7 @@ Taste Skill supports the following AI editors and platforms:
 - [Codex](../../codex/taste-skill/INSTALL-zh.md)
 - [OpenCode](../../opencode/taste-skill/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/taste-skill/INSTALL-zh.md)
-- [OpenAgent](../../openagent/taste-skill/INSTALL-zh.md)
+- [Zerone](../../zerone/taste-skill/INSTALL-zh.md)
 - [Qoder](../../qoder/taste-skill/INSTALL-zh.md)
 
 ---

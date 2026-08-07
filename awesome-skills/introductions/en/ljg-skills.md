@@ -54,7 +54,7 @@ LJG Skills supports the following AI editors and platforms:
 - [Codex](../../codex/ljg-skills/INSTALL-en.md)
 - [OpenCode](../../opencode/ljg-skills/INSTALL-en.md)
 - [OpenClaw](../../openclaw/ljg-skills/INSTALL-en.md)
-- [OpenAgent](../../openagent/ljg-skills/INSTALL-en.md)
+- [Zerone](../../zerone/ljg-skills/INSTALL-en.md)
 - [Qoder](../../qoder/ljg-skills/INSTALL-en.md)
 
 ---

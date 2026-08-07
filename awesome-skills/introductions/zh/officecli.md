@@ -39,7 +39,7 @@ OfficeCLI 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/officecli/INSTALL-zh.md)
 - [OpenCode](../../opencode/officecli/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/officecli/INSTALL-zh.md)
-- [OpenAgent](../../openagent/officecli/INSTALL-zh.md)
+- [Zerone](../../zerone/officecli/INSTALL-zh.md)
 - [Qoder](../../qoder/officecli/INSTALL-zh.md)
 
 ---

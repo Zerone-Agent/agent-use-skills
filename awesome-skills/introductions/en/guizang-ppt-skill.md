@@ -32,7 +32,7 @@ Guizang PPT Skill supports the following AI editors and platforms:
 - [Codex](../../codex/guizang-ppt-skill/INSTALL-en.md)
 - [OpenCode](../../opencode/guizang-ppt-skill/INSTALL-en.md)
 - [OpenClaw](../../openclaw/guizang-ppt-skill/INSTALL-en.md)
-- [OpenAgent](../../openagent/guizang-ppt-skill/INSTALL-en.md)
+- [Zerone](../../zerone/guizang-ppt-skill/INSTALL-en.md)
 - [Qoder](../../qoder/guizang-ppt-skill/INSTALL-en.md)
 
 ---

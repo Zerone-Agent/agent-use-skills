@@ -13,7 +13,7 @@ Obsidian 1.12（2026 年 2 月 27 日发布）正式引入了官方 CLI 命令�
 - **语义搜索能力**：调用 Obsidian 自身的搜索索引，支持标签、属性、反向链接等结构化查询。
 - **图谱查询**：通过 `obsidian backlinks`、`obsidian orphans` 等命令查询知识图谱关系。
 - **极致性能**：孤立笔记检测速度比 grep 快 **60 倍**，Token 消耗减少高达 **70,000 倍**。
-- **生态集成**：Claude Code、Cursor、Codex、OpenCode、OpenClaw、OpenAgent、Qoder 等主流 Agent 平台均已支持。
+- **生态集成**：Claude Code、Cursor、Codex、OpenCode、OpenClaw、Zerone、Qoder 等主流 Agent 平台均已支持。
 
 ## 为什么它是 Agent-Ready 的？
 

@@ -60,7 +60,7 @@ Reports Summary supports the following AI editors and platforms:
 - [Cursor](../../cursor/reports-summary/INSTALL-en.md)
 - [OpenCode](../../opencode/reports-summary/INSTALL-en.md)
 - [OpenClaw](../../openclaw/reports-summary/INSTALL-en.md)
-- [OpenAgent](../../openagent/reports-summary/INSTALL-en.md)
+- [Zerone](../../zerone/reports-summary/INSTALL-en.md)
 - [Qoder](../../qoder/reports-summary/INSTALL-en.md)
 
 ---

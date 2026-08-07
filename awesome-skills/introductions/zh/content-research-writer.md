@@ -48,7 +48,7 @@ Content Research Writer 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/content-research-writer/INSTALL-zh.md)
 - [OpenCode](../../opencode/content-research-writer/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/content-research-writer/INSTALL-zh.md)
-- [OpenAgent](../../openagent/content-research-writer/INSTALL-zh.md)
+- [Zerone](../../zerone/content-research-writer/INSTALL-zh.md)
 - [Qoder](../../qoder/content-research-writer/INSTALL-zh.md)
 
 ---

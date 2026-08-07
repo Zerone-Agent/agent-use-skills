@@ -27,7 +27,7 @@ Colleague Skill supports the following AI editors and platforms:
 - [Codex](../../codex/colleague-skill/INSTALL-en.md)
 - [OpenCode](../../opencode/colleague-skill/INSTALL-en.md)
 - [OpenClaw](../../openclaw/colleague-skill/INSTALL-en.md)
-- [OpenAgent](../../openagent/colleague-skill/INSTALL-en.md)
+- [Zerone](../../zerone/colleague-skill/INSTALL-en.md)
 - [Qoder](../../qoder/colleague-skill/INSTALL-en.md)
 
 ---

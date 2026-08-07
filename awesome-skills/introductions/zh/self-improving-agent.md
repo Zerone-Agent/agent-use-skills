@@ -30,7 +30,7 @@
 Self-Improving Agent 目前主要支持以下平台：
 
 - [OpenClaw](../../openclaw/self-improving-agent/INSTALL-zh.md)
-- [OpenAgent](../../openagent/self-improving-agent/INSTALL-zh.md)
+- [Zerone](../../zerone/self-improving-agent/INSTALL-zh.md)
 
 ---
 更多信息请查看：[GitHub - peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent)

@@ -21,7 +21,7 @@ OfficeCLI successfully meets all the core criteria of the Agent-Ready certificat
 - **Atomic Action Exposure**: Core features fully exposed via CLI commands — `create`, `view`, `get`, `set`, `add`, `remove`, `move`, `swap`, `query`, `batch`, `merge`, `dump`, `watch`, `validate` — no UI interaction required. Three-layer architecture: L1 semantic views, L2 DOM operations, L3 raw XML fallback.
 - **Structured Feedback**: All commands support `--json` with consistent schemas. Structured error codes (`not_found`, `invalid_value`, `unsupported_property`) include suggestions and valid ranges — agents self-correct without human intervention.
 - **Security Guardrails**: `validate` checks against OpenXML schema; `view issues` enumerates formatting, content, and structural problems; `watch` provides live preview for human review before final delivery.
-- **Verified Integration**: Extensively tested across Claude Code, Cursor, Codex, OpenCode, OpenClaw, OpenAgent, Qoder, and more. Auto-detects AI tooling during installation and configures itself.
+- **Verified Integration**: Extensively tested across Claude Code, Cursor, Codex, OpenCode, OpenClaw, Zerone, Qoder, and more. Auto-detects AI tooling during installation and configures itself.
 
 ## Core CLI Commands
 
