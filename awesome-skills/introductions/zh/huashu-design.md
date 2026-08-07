@@ -41,7 +41,7 @@ Huashu Design 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/huashu-design/INSTALL-zh.md)
 - [OpenCode](../../opencode/huashu-design/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/huashu-design/INSTALL-zh.md)
-- [OpenAgent](../../openagent/huashu-design/INSTALL-zh.md)
+- [Zerone](../../zerone/huashu-design/INSTALL-zh.md)
 - [Qoder](../../qoder/huashu-design/INSTALL-zh.md)
 
 ---

@@ -13,7 +13,7 @@ Obsidian 1.12 (released February 27, 2026) introduced an official CLI and TUI (T
 - **Semantic Search**: Leverages Obsidian's own search index for structured, tag-aware, link-aware queries.
 - **Graph Queries**: Access the knowledge graph via `obsidian backlinks` and `obsidian orphans` without scanning every file.
 - **Exceptional Performance**: Orphan detection is **60x faster** than grep; token consumption can be reduced by up to **70,000x**.
-- **Ecosystem Integration**: Natively supported by Claude Code, Cursor, Codex, OpenCode, OpenClaw, OpenAgent, Qoder, and more.
+- **Ecosystem Integration**: Natively supported by Claude Code, Cursor, Codex, OpenCode, OpenClaw, Zerone, Qoder, and more.
 
 ## Why is it Agent-Ready?
 

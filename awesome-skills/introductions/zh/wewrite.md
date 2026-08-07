@@ -84,7 +84,7 @@ WeWrite 支持以下 AI 编辑器和平台：
 - [Cursor](../../cursor/wewrite/INSTALL-zh.md)
 - [Codex](../../codex/wewrite/INSTALL-zh.md)
 - [OpenCode](../../opencode/wewrite/INSTALL-zh.md)
-- [OpenAgent](../../openagent/wewrite/INSTALL-zh.md)
+- [Zerone](../../zerone/wewrite/INSTALL-zh.md)
 - [Qoder](../../qoder/wewrite/INSTALL-zh.md)
 
 ---

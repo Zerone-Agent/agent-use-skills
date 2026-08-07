@@ -34,7 +34,7 @@ Agent Browser 目前支持以下平台：
 - [Codex](../../codex/agent-browser/INSTALL-zh.md)
 - [OpenCode](../../opencode/agent-browser/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/agent-browser/INSTALL-zh.md)
-- [OpenAgent](../../openagent/agent-browser/INSTALL-zh.md)
+- [Zerone](../../zerone/agent-browser/INSTALL-zh.md)
 - [Qoder](../../qoder/agent-browser/INSTALL-zh.md)
 
 ---

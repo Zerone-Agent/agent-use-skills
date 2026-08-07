@@ -56,7 +56,7 @@ MiniMax Skills supports major AI-powered editors and platforms:
 - [Codex](../../codex/minimax-skills/INSTALL-en.md)
 - [OpenCode](../../opencode/minimax-skills/INSTALL-en.md)
 - [OpenClaw](../../openclaw/minimax-skills/INSTALL-en.md)
-- [OpenAgent](../../openagent/minimax-skills/INSTALL-en.md)
+- [Zerone](../../zerone/minimax-skills/INSTALL-en.md)
 - [Qoder](../../qoder/minimax-skills/INSTALL-en.md)
 
 ---

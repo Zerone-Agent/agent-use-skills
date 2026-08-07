@@ -39,7 +39,7 @@ Matt Pocock Skills supports the following AI editors and platforms:
 - [Codex](../../codex/mattpocock-skills/INSTALL-en.md)
 - [OpenCode](../../opencode/mattpocock-skills/INSTALL-en.md)
 - [OpenClaw](../../openclaw/mattpocock-skills/INSTALL-en.md)
-- [OpenAgent](../../openagent/mattpocock-skills/INSTALL-en.md)
+- [Zerone](../../zerone/mattpocock-skills/INSTALL-en.md)
 - [Qoder](../../qoder/mattpocock-skills/INSTALL-en.md)
 
 ---

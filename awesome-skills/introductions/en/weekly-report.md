@@ -59,7 +59,7 @@ Weekly Report supports the following AI editors and platforms:
 - [Cursor](../../cursor/weekly-report/INSTALL-en.md)
 - [OpenCode](../../opencode/weekly-report/INSTALL-en.md)
 - [OpenClaw](../../openclaw/weekly-report/INSTALL-en.md)
-- [OpenAgent](../../openagent/weekly-report/INSTALL-en.md)
+- [Zerone](../../zerone/weekly-report/INSTALL-en.md)
 - [Qoder](../../qoder/weekly-report/INSTALL-en.md)
 
 ---

@@ -23,7 +23,7 @@
    - **Image-to-code skills**: generate references, analyze them, then implement (image-to-code-skill).
 3. **Tunable dials** (taste-skill only): DESIGN_VARIANCE (layout experimentation), MOTION_INTENSITY (animation depth), VISUAL_DENSITY (info per viewport), 1-10.
 4. **v1 / v2 dual tracks**: v2 (experimental) is the default, adding brief inference, design-system mapping, hard em-dash ban, canonical GSAP skeletons, redesign-audit protocol, and a strict pre-flight check. v1 is preserved for users who depend on the original behavior.
-5. **Cross-platform**: Built on the portable SKILL.md instruction file, all major coding agents (Claude Code, Cursor, Codex, OpenCode, OpenClaw, OpenAgent, Qoder) can load it.
+5. **Cross-platform**: Built on the portable SKILL.md instruction file, all major coding agents (Claude Code, Cursor, Codex, OpenCode, OpenClaw, Zerone, Qoder) can load it.
 
 ## Skills Library Overview
 
@@ -46,7 +46,7 @@ Taste Skill supports the following AI editors and platforms:
 - [Codex](../../codex/taste-skill/INSTALL-en.md)
 - [OpenCode](../../opencode/taste-skill/INSTALL-en.md)
 - [OpenClaw](../../openclaw/taste-skill/INSTALL-en.md)
-- [OpenAgent](../../openagent/taste-skill/INSTALL-en.md)
+- [Zerone](../../zerone/taste-skill/INSTALL-en.md)
 - [Qoder](../../qoder/taste-skill/INSTALL-en.md)
 
 ---

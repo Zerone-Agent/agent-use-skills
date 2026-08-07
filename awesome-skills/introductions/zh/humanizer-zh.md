@@ -33,7 +33,7 @@ Humanizer-zh 支持以下平台：
 - [OpenCode](../../opencode/humanizer-zh/INSTALL-zh.md)
 - [Codex](../../codex/humanizer-zh/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/humanizer-zh/INSTALL-zh.md)
-- [OpenAgent](../../openagent/humanizer-zh/INSTALL-zh.md)
+- [Zerone](../../zerone/humanizer-zh/INSTALL-zh.md)
 - [Qoder](../../qoder/humanizer-zh/INSTALL-zh.md)
 
 ---

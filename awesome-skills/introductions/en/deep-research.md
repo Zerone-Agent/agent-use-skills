@@ -46,7 +46,7 @@ Deep Research supports the following AI editors and platforms:
 - [Codex](../../codex/deep-research/INSTALL-en.md)
 - [OpenCode](../../opencode/deep-research/INSTALL-en.md)
 - [OpenClaw](../../openclaw/deep-research/INSTALL-en.md)
-- [OpenAgent](../../openagent/deep-research/INSTALL-en.md)
+- [Zerone](../../zerone/deep-research/INSTALL-en.md)
 - [Qoder](../../qoder/deep-research/INSTALL-en.md)
 
 ---

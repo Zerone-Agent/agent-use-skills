@@ -51,7 +51,7 @@ Skill Creator supports the following AI editors and platforms:
 - [Codex](../../codex/skill-creator/INSTALL-en.md)
 - [OpenCode](../../opencode/skill-creator/INSTALL-en.md)
 - [OpenClaw](../../openclaw/skill-creator/INSTALL-en.md)
-- [OpenAgent](../../openagent/skill-creator/INSTALL-en.md)
+- [Zerone](../../zerone/skill-creator/INSTALL-en.md)
 - [Qoder](../../qoder/skill-creator/INSTALL-en.md)
 
 ---

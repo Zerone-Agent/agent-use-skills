@@ -54,7 +54,7 @@ Baoyu Skills 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/baoyu-skills/INSTALL-zh.md)
 - [OpenCode](../../opencode/baoyu-skills/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/baoyu-skills/INSTALL-zh.md)
-- [OpenAgent](../../openagent/baoyu-skills/INSTALL-zh.md)
+- [Zerone](../../zerone/baoyu-skills/INSTALL-zh.md)
 - [Qoder](../../qoder/baoyu-skills/INSTALL-zh.md)
 
 ---

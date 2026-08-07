@@ -56,7 +56,7 @@ MiniMax Skills 支持多种主流 AI 编辑器和平台：
 - [Codex](../../codex/minimax-skills/INSTALL-zh.md)
 - [OpenCode](../../opencode/minimax-skills/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/minimax-skills/INSTALL-zh.md)
-- [OpenAgent](../../openagent/minimax-skills/INSTALL-zh.md)
+- [Zerone](../../zerone/minimax-skills/INSTALL-zh.md)
 - [Qoder](../../qoder/minimax-skills/INSTALL-zh.md)
 
 ---

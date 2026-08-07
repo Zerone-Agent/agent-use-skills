@@ -48,7 +48,7 @@ Content Research Writer supports the following AI editors and platforms:
 - [Codex](../../codex/content-research-writer/INSTALL-en.md)
 - [OpenCode](../../opencode/content-research-writer/INSTALL-en.md)
 - [OpenClaw](../../openclaw/content-research-writer/INSTALL-en.md)
-- [OpenAgent](../../openagent/content-research-writer/INSTALL-en.md)
+- [Zerone](../../zerone/content-research-writer/INSTALL-en.md)
 - [Qoder](../../qoder/content-research-writer/INSTALL-en.md)
 
 ---

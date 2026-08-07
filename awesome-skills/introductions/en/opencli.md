@@ -42,7 +42,7 @@ OpenCLI supports the following AI editors and platforms:
 - [Codex](../../codex/opencli/INSTALL-en.md)
 - [OpenCode](../../opencode/opencli/INSTALL-en.md)
 - [OpenClaw](../../openclaw/opencli/INSTALL-en.md)
-- [OpenAgent](../../openagent/opencli/INSTALL-en.md)
+- [Zerone](../../zerone/opencli/INSTALL-en.md)
 - [Qoder](../../qoder/opencli/INSTALL-en.md)
 
 ---

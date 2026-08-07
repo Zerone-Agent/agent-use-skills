@@ -40,7 +40,7 @@ Fuck-U-Code Analysis 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/fuck-u-code-analysis/INSTALL-zh.md)
 - [OpenCode](../../opencode/fuck-u-code-analysis/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/fuck-u-code-analysis/INSTALL-zh.md)
-- [OpenAgent](../../openagent/fuck-u-code-analysis/INSTALL-zh.md)
+- [Zerone](../../zerone/fuck-u-code-analysis/INSTALL-zh.md)
 - [Qoder](../../qoder/fuck-u-code-analysis/INSTALL-zh.md)
 
 ---

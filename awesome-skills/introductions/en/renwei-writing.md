@@ -34,7 +34,7 @@ Renwei Writing supports the following AI editors and platforms:
 - [Codex](../../codex/renwei-writing/INSTALL-en.md)
 - [OpenCode](../../opencode/renwei-writing/INSTALL-en.md)
 - [OpenClaw](../../openclaw/renwei-writing/INSTALL-en.md)
-- [OpenAgent](../../openagent/renwei-writing/INSTALL-en.md)
+- [Zerone](../../zerone/renwei-writing/INSTALL-en.md)
 - [Qoder](../../qoder/renwei-writing/INSTALL-en.md)
 
 ---

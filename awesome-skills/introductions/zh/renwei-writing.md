@@ -34,7 +34,7 @@
 - [Codex](../../codex/renwei-writing/INSTALL-zh.md)
 - [OpenCode](../../opencode/renwei-writing/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/renwei-writing/INSTALL-zh.md)
-- [OpenAgent](../../openagent/renwei-writing/INSTALL-zh.md)
+- [Zerone](../../zerone/renwei-writing/INSTALL-zh.md)
 - [Qoder](../../qoder/renwei-writing/INSTALL-zh.md)
 
 ---

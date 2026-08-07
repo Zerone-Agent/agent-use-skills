@@ -40,7 +40,7 @@ Fuck-U-Code Analysis supports the following AI editors and platforms:
 - [Codex](../../codex/fuck-u-code-analysis/INSTALL-en.md)
 - [OpenCode](../../opencode/fuck-u-code-analysis/INSTALL-en.md)
 - [OpenClaw](../../openclaw/fuck-u-code-analysis/INSTALL-en.md)
-- [OpenAgent](../../openagent/fuck-u-code-analysis/INSTALL-en.md)
+- [Zerone](../../zerone/fuck-u-code-analysis/INSTALL-en.md)
 - [Qoder](../../qoder/fuck-u-code-analysis/INSTALL-en.md)
 
 ---

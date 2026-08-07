@@ -26,7 +26,7 @@ Anti-Distill supports the following AI editors and platforms:
 - [Codex](../../codex/anti-distill/INSTALL-en.md)
 - [OpenCode](../../opencode/anti-distill/INSTALL-en.md)
 - [OpenClaw](../../openclaw/anti-distill/INSTALL-en.md)
-- [OpenAgent](../../openagent/anti-distill/INSTALL-en.md)
+- [Zerone](../../zerone/anti-distill/INSTALL-en.md)
 - [Qoder](../../qoder/anti-distill/INSTALL-en.md)
 
 ---

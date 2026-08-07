@@ -54,7 +54,7 @@ Baoyu Skills supports the following AI editors and platforms:
 - [Codex](../../codex/baoyu-skills/INSTALL-en.md)
 - [OpenCode](../../opencode/baoyu-skills/INSTALL-en.md)
 - [OpenClaw](../../openclaw/baoyu-skills/INSTALL-en.md)
-- [OpenAgent](../../openagent/baoyu-skills/INSTALL-en.md)
+- [Zerone](../../zerone/baoyu-skills/INSTALL-en.md)
 - [Qoder](../../qoder/baoyu-skills/INSTALL-en.md)
 
 ---

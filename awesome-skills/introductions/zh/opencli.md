@@ -42,7 +42,7 @@ OpenCLI 支持以下 AI 编辑器和平台：
 - [Codex](../../codex/opencli/INSTALL-zh.md)
 - [OpenCode](../../opencode/opencli/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/opencli/INSTALL-zh.md)
-- [OpenAgent](../../openagent/opencli/INSTALL-zh.md)
+- [Zerone](../../zerone/opencli/INSTALL-zh.md)
 - [Qoder](../../qoder/opencli/INSTALL-zh.md)
 
 ---

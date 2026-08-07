@@ -43,7 +43,7 @@ If no `SKILL.md` exists under `awesome-skills/skills/<skill-name>/`:
   - **Core philosophy**: What are the design principles.
   - **Key features and workflow**: What capabilities it provides and how it operates.
   - **Skills library composition**: What sub-skills are included.
-  - **Supported platforms**: Determine exactly which AI coding agents/platforms the Skill supports (e.g., Claude Code, Cursor, Codex, OpenCode, OpenClaw, OpenAgent, Qoder). This is critical — only create installation guides for platforms that are explicitly supported. Skip any unsupported platforms entirely.
+  - **Supported platforms**: Determine exactly which AI coding agents/platforms the Skill supports (e.g., Claude Code, Cursor, Codex, OpenCode, OpenClaw, Zerone, Qoder). This is critical — only create installation guides for platforms that are explicitly supported. Skip any unsupported platforms entirely.
 
 ### Step 2: Write the Chinese Introduction Document
 

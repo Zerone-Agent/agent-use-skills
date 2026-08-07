@@ -80,7 +80,7 @@ WeWrite supports the following AI editors and platforms:
 - [Codex](../../codex/wewrite/INSTALL-en.md)
 - [OpenCode](../../opencode/wewrite/INSTALL-en.md)
 - [OpenClaw](../../openclaw/wewrite/INSTALL-en.md)
-- [OpenAgent](../../openagent/wewrite/INSTALL-en.md)
+- [Zerone](../../zerone/wewrite/INSTALL-en.md)
 - [Qoder](../../qoder/wewrite/INSTALL-en.md)
 
 ---

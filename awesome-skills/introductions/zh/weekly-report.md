@@ -59,7 +59,7 @@ Weekly Report 支持以下 AI 编辑器和平台：
 - [Cursor](../../cursor/weekly-report/INSTALL-zh.md)
 - [OpenCode](../../opencode/weekly-report/INSTALL-zh.md)
 - [OpenClaw](../../openclaw/weekly-report/INSTALL-zh.md)
-- [OpenAgent](../../openagent/weekly-report/INSTALL-zh.md)
+- [Zerone](../../zerone/weekly-report/INSTALL-zh.md)
 - [Qoder](../../qoder/weekly-report/INSTALL-zh.md)
 
 ---

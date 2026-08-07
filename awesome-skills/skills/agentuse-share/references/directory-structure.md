@@ -32,7 +32,7 @@ awesome-skills/
 │   └── <skill-name>/
 │       ├── INSTALL-en.md
 │       └── INSTALL-zh.md
-├── openagent/                     # OpenAgent platform install guides
+├── zerone/                     # Zerone platform install guides
 │   └── <skill-name>/
 │       ├── INSTALL-en.md
 │       └── INSTALL-zh.md
@@ -61,7 +61,7 @@ awesome-skills/
 | Codex       | `codex/<skill-name>/INSTALL-en.md`                 | `codex/<skill-name>/INSTALL-zh.md`                 |
 | Cursor      | `cursor/<skill-name>/INSTALL-en.md`                | `cursor/<skill-name>/INSTALL-zh.md`                |
 | OpenClaw    | `openclaw/<skill-name>/INSTALL-en.md`              | `openclaw/<skill-name>/INSTALL-zh.md`              |
-| OpenAgent   | `openagent/<skill-name>/INSTALL-en.md`             | `openagent/<skill-name>/INSTALL-zh.md`             |
+| Zerone   | `zerone/<skill-name>/INSTALL-en.md`             | `zerone/<skill-name>/INSTALL-zh.md`             |
 | OpenCode    | `opencode/<skill-name>/INSTALL-en.md`              | `opencode/<skill-name>/INSTALL-zh.md`              |
 | Qoder       | `qoder/<skill-name>/INSTALL-en.md`                 | `qoder/<skill-name>/INSTALL-zh.md`                 |
 ```
