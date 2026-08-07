@@ -3,7 +3,7 @@ import sys
 import urllib.request
 import urllib.parse
 
-ENDPOINT = "https://api.zerone.market/api"
+ENDPOINT = "https://skills-api.zerone.run/api"
 
 def fetch_json(url):
     try:
