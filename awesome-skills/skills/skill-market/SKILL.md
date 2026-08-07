@@ -1,6 +1,6 @@
 ---
 name: skill-market
-description: Use this skill to find, explore, and install new skills from the Zerone Skill Market (https://api.zerone.market/api). Trigger this when the user asks to "add a skill", "install a skill", "browse skills", or mentions a skill name that is not currently installed.
+description: Use this skill to find, explore, and install new skills from the Zerone Skill Market (https://skills-api.zerone.run/api). Trigger this when the user asks to "add a skill", "install a skill", "browse skills", or mentions a skill name that is not currently installed.
 ---
 
 # Skill Market
@@ -58,7 +58,7 @@ The installation tutorial will contain a set of steps or commands. Before execut
 Only after explicit user approval, execute the instructions to install the skill into the `.agent/skills/` directory.
 
 ## Current Environment Context
-- **Market Endpoint:** `https://api.zerone.market/api`
+- **Market Endpoint:** `https://skills-api.zerone.run/api`
 - **Default Language:** `en` (English is used for API requests as per instructions)
 - **Local Skills path:** `.agent/skills/`
 
